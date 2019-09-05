@@ -344,6 +344,8 @@ ex) Implicit
 실수형을 == 으로 비교하면 err 가 발생할 수 있다
 
 실수 a --> a를 많이 연산시킴 --> 원래 a랑 비교할때 같지 않을 수 있다
+
+## 5th
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjc2ODA1Ml19
+eyJoaXN0b3J5IjpbLTE3MTU5NTUwNjUsMTczNjc2ODA1Ml19
 -->
