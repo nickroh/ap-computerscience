@@ -471,6 +471,10 @@ for(String number: numbers)
 * runtime err
 	* throw
 * syntax err
+#### Exception
+* Arithmatic
+* Null-Pointer
+* Index out of 
 
 ## 6th
 
@@ -482,6 +486,6 @@ for(String number: numbers)
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTkyOTAwNDYsNjg0Mjc4MzQ4LC0xNz
+eyJoaXN0b3J5IjpbLTIwMTk5MzM5NjUsNjg0Mjc4MzQ4LC0xNz
 Y3MzExMTUsODk4NjM2Nzk3LDE3MzY3NjgwNTJdfQ==
 -->
