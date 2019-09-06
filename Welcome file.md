@@ -346,6 +346,57 @@ ex) Implicit
 실수 a --> a를 많이 연산시킴 --> 원래 a랑 비교할때 같지 않을 수 있다
 
 ## 5th
+### Operator
+#### logical operator
+* short-circuit evaluation
+	* && 연산자 --> 앞부분이 false라면 뒤는 확인 하지 않는다
+#### Assignment Operator
+* 산술 연산자와 합쳐져 사용될 수 있다
+#### Increment & Decrement Operator
+* 앞인지 뒤인지에 따라서 달라짐
+
+### Operator Priority
+![Image result for ìžë°” ì—°ì‚°ìž ìš°ì„  ìˆœìœ„](https://t1.daumcdn.net/cfile/tistory/997A014D5A90B9B00D)
+
+### Input & Output
+* API Documentation
+
+### Overloading
+
+* Operator overloading
+	- + : 문자열 & 연산...
+	```java
+	int a = 1;
+	int b = 2;
+	System.out.println("~"+a); //1
+	System.out.println("~"+a+b); //12
+	System.out.println("~"+(a+b)); //3
+	```
+
+### Escape Sequence
+```java
+\n : 개행(줄바꿈). 스크린 커서 위치를 다음줄의 처음으로 옮기, 아스키코드 : 10
+
+\t : 수평탭. 스크린 커서를 다음 탭으로 옮김
+
+\r : 캐리지리턴. 스크린커서의 위치를 현재 줄의 처음으로 옮긴다. 개행하지 않는다.
+
+이 기호 다음에 오는 문자를 덮어 쒸운다. 아스키코드 : 13
+
+\\ : 역슬래시 문자를 출력할때 사용.
+
+\" : 큰 따옴표를 출력할때 사용
+
+\' : 작은 따옴표를 출력할때 사용
+
+\b : 백스페이스
+
+\u : 유니코드 문자
+```
+
+### Selection Statement
+* if
+	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTU5NTUwNjUsMTczNjc2ODA1Ml19
+eyJoaXN0b3J5IjpbLTQ1ODE2OTM5MCwxNzM2NzY4MDUyXX0=
 -->
