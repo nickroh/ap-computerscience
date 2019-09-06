@@ -469,12 +469,13 @@ for(String number: numbers)
 ### Err & Exception
 #### Err
 * runtime err
-	* throw
+	
 * syntax err
 #### Exception
 * Arithmatic
 * Null-Pointer
 * Array Index Out of Bound
+* Index Out of Bound
 
 ## 6th
 
@@ -486,6 +487,6 @@ for(String number: numbers)
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1MTQ3OTc2LDY4NDI3ODM0OCwtMTc2Nz
-MxMTE1LDg5ODYzNjc5NywxNzM2NzY4MDUyXX0=
+eyJoaXN0b3J5IjpbLTIxMTM4NTA3OTMsNjg0Mjc4MzQ4LC0xNz
+Y3MzExMTUsODk4NjM2Nzk3LDE3MzY3NjgwNTJdfQ==
 -->
