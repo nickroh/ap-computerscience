@@ -433,11 +433,12 @@ for(초기화식;조건식;증감식)
 ```
 * for-each
 
+ for each라는 키워드가 있는 것이 아니다
 
 ## Null
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTE4NTQ4MSw4OTg2MzY3OTcsMTczNj
+eyJoaXN0b3J5IjpbLTkwODIwNDIyMCw4OTg2MzY3OTcsMTczNj
 c2ODA1Ml19
 -->
