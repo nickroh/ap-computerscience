@@ -412,8 +412,19 @@ default: ~~;
 
 ### Loop
 * while
-* do -
+```java
+while(조건)
+{
+	~~~~~; // 조건이 참일때 실행된다
+}
+```
+* do - while
+do{
+	~~~~~: // 일단 한번 실행하고 조건을 후에 확인한다
+}while(조건)
+* for
+
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NzA3NzA5MCwxNzM2NzY4MDUyXX0=
+eyJoaXN0b3J5IjpbMTY0NTA1Mzc3OSwxNzM2NzY4MDUyXX0=
 -->
