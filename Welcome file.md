@@ -396,7 +396,14 @@ ex) Implicit
 
 ### Selection Statement
 * if
+* switch - case
+```java
+switch ( int a)
+{
+
+
+```
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1ODE2OTM5MCwxNzM2NzY4MDUyXX0=
+eyJoaXN0b3J5IjpbLTgzOTgxMDMxMSwxNzM2NzY4MDUyXX0=
 -->
