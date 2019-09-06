@@ -445,13 +445,22 @@ for(int i=0; i<numbers.length; i++)
 ```
 for each 구조로는
 ```java
-
+String[] numbers = {"one", "two", "three"};
+for(String number: numbers) 
+{ 
+	System.out.println(number); 
+}
 ```
+
+* CFC
+	- Collection
+	- Framework
+	- Class
 
 ## Null
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzUxMjA3MzYsODk4NjM2Nzk3LDE3Mz
-Y3NjgwNTJdfQ==
+eyJoaXN0b3J5IjpbLTQ0MjQ0MDc3Nyw4OTg2MzY3OTcsMTczNj
+c2ODA1Ml19
 -->
