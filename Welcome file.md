@@ -1,4 +1,6 @@
 # 컴싸 
+### 참고
+[https://tenlie10.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/Java](https://tenlie10.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/Java)
 #### 평가 
  -- 중간 기말 35% 35%
  -- 보고서
@@ -492,6 +494,7 @@ for(String number: numbers)
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3Mjg3Mjk3Myw2ODQyNzgzNDgsLTE3Nj
-czMTExNSw4OTg2MzY3OTcsMTczNjc2ODA1Ml19
+eyJoaXN0b3J5IjpbOTEyODczODE1LDE3NzI4NzI5NzMsNjg0Mj
+c4MzQ4LC0xNzY3MzExMTUsODk4NjM2Nzk3LDE3MzY3NjgwNTJd
+fQ==
 -->
