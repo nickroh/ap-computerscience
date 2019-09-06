@@ -451,6 +451,7 @@ for(String number: numbers)
 	System.out.println(number); 
 }
 ```
+다양한 요소 (CFC를 포함한)들을 집어 넣을 수 있다
 
 * CFC
 	- Collection
@@ -467,6 +468,6 @@ for(String number: numbers)
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjczMTExNSw4OTg2MzY3OTcsMTczNj
-c2ODA1Ml19
+eyJoaXN0b3J5IjpbMTI5ODk4NTQzMywtMTc2NzMxMTE1LDg5OD
+YzNjc5NywxNzM2NzY4MDUyXX0=
 -->
