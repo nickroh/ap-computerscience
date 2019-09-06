@@ -418,13 +418,21 @@ while(조건)
 	~~~~~; // 조건이 참일때 실행된다
 }
 ```
-* do - while
+ * do - while
+```java
 do{
 	~~~~~: // 일단 한번 실행하고 조건을 후에 확인한다
 }while(조건)
+```
 * for
+```java
+for(;;)
+{
+	
+}
+```
 
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTA1Mzc3OSwxNzM2NzY4MDUyXX0=
+eyJoaXN0b3J5IjpbLTIxMTg4NTk4MDksMTczNjc2ODA1Ml19
 -->
