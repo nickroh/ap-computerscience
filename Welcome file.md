@@ -398,9 +398,22 @@ ex) Implicit
 * if
 * switch - case
 ```java
-switch 
+switch (a){
+case 1: ~~ ;
+	break;
+case 2: ~~ ;
+	break;
+case 3: ~~ ;
+	break;
+default: ~~;
+	break;	
+}
 ```
+
+### Loop
+* while
+* do -
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTI5OTQwOSwxNzM2NzY4MDUyXX0=
+eyJoaXN0b3J5IjpbMTk5NzA3NzA5MCwxNzM2NzY4MDUyXX0=
 -->
