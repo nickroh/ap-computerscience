@@ -467,6 +467,7 @@ for(String number: numbers)
 반복문의 중첩 사용
 
 ### Err & Exception
+![enter image description here](http://www.nextree.co.kr/content/images/2016/09/Exception-Class.png)
 #### Err
 * runtime err
 	
@@ -487,6 +488,6 @@ for(String number: numbers)
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTM4NTA3OTMsNjg0Mjc4MzQ4LC0xNz
-Y3MzExMTUsODk4NjM2Nzk3LDE3MzY3NjgwNTJdfQ==
+eyJoaXN0b3J5IjpbMTUzOTMwNTQ3Miw2ODQyNzgzNDgsLTE3Nj
+czMTExNSw4OTg2MzY3OTcsMTczNjc2ODA1Ml19
 -->
