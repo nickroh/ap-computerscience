@@ -468,12 +468,13 @@ for(String number: numbers)
 
 ### Err & Exception
 ![enter image description here](http://www.nextree.co.kr/content/images/2016/09/Exception-Class.png)
+
 #### Err
 * runtime err
 	
 * syntax err
 #### Exception
-* Arithmatic
+* Arithmetic
 * Null-Pointer
 * Array Index Out of Bound
 * Index Out of Bound
@@ -488,6 +489,6 @@ for(String number: numbers)
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTMwNTQ3Miw2ODQyNzgzNDgsLTE3Nj
-czMTExNSw4OTg2MzY3OTcsMTczNjc2ODA1Ml19
+eyJoaXN0b3J5IjpbMzAxNjIwMzEwLDY4NDI3ODM0OCwtMTc2Nz
+MxMTE1LDg5ODYzNjc5NywxNzM2NzY4MDUyXX0=
 -->
