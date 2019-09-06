@@ -1,7 +1,7 @@
 # 컴싸 
 ### 참고
 [게임 개발자 블로그](https://tenlie10.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/Java)
-[Wikidocs 점픝](https://wikidocs.net/book/31)
+[Wikidocs 점프투 자바](https://wikidocs.net/book/31)
 #### 평가 
  -- 중간 기말 35% 35%
  -- 보고서
@@ -495,7 +495,7 @@ for(String number: numbers)
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5Nzk2OTUzNywxNzcyODcyOTczLDY4ND
+eyJoaXN0b3J5IjpbMTc0MzU3NzU2OCwxNzcyODcyOTczLDY4ND
 I3ODM0OCwtMTc2NzMxMTE1LDg5ODYzNjc5NywxNzM2NzY4MDUy
 XX0=
 -->
