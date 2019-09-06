@@ -426,7 +426,7 @@ do{
 ```
 * for
 ```java
-for(;;)
+for(초기화식;조건식;증감식)
 {
 	
 }
@@ -434,5 +434,5 @@ for(;;)
 
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTg4NTk4MDksMTczNjc2ODA1Ml19
+eyJoaXN0b3J5IjpbODk4NjM2Nzk3LDE3MzY3NjgwNTJdfQ==
 -->
