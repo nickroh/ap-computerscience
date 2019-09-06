@@ -398,12 +398,9 @@ ex) Implicit
 * if
 * switch - case
 ```java
-switch ( int a)
-{
-
-
+switch 
 ```
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTgxMDMxMSwxNzM2NzY4MDUyXX0=
+eyJoaXN0b3J5IjpbLTE2MTI5OTQwOSwxNzM2NzY4MDUyXX0=
 -->
