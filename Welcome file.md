@@ -433,12 +433,25 @@ for(초기화식;조건식;증감식)
 ```
 * for-each
 
- for each라는 키워드가 있는 것이 아니다
+ for each라는 키워드가 있는 것이 아니다..
+
+평범한 for문은 다음과 같고
+```java
+String[] numbers = {"one", "two", "three"};
+for(int i=0; i<numbers.length; i++) 
+{ 
+	System.out.println(numbers[i]); 
+}
+```
+for each 구조로는
+```java
+
+```
 
 ## Null
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODIwNDIyMCw4OTg2MzY3OTcsMTczNj
-c2ODA1Ml19
+eyJoaXN0b3J5IjpbLTIxMzUxMjA3MzYsODk4NjM2Nzk3LDE3Mz
+Y3NjgwNTJdfQ==
 -->
