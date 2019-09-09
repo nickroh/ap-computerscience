@@ -499,8 +499,10 @@ for(String number: numbers)
 
 * Variable
 	* Local
+		* 명시적 초기화 없으면 쓰레기 값
+		* D - Allocation -- JVM ( Garbage Collector )
 	* Global
-		* Attribute -- 0 
+		* Attribute -- 0 or NULL 로 초기화
 ## 7th
 
 ## 8th
@@ -509,7 +511,7 @@ for(String number: numbers)
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQyMTQzMjUsMTQ5MTM5MTMwMCwxNz
-QzNTc3NTY4LDE3NzI4NzI5NzMsNjg0Mjc4MzQ4LC0xNzY3MzEx
-MTUsODk4NjM2Nzk3LDE3MzY3NjgwNTJdfQ==
+eyJoaXN0b3J5IjpbLTMxMTY2NzI5NCwxNDkxMzkxMzAwLDE3ND
+M1Nzc1NjgsMTc3Mjg3Mjk3Myw2ODQyNzgzNDgsLTE3NjczMTEx
+NSw4OTg2MzY3OTcsMTczNjc2ODA1Ml19
 -->
