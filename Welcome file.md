@@ -489,6 +489,9 @@ for(String number: numbers)
 
 ## 6th
 * Class : User Defined Data Type	
+* Data Type
+	* Primitive
+	* Reference
 ## 7th
 
 ## 8th
@@ -497,7 +500,7 @@ for(String number: numbers)
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTM5MTMwMCwxNzQzNTc3NTY4LDE3Nz
-I4NzI5NzMsNjg0Mjc4MzQ4LC0xNzY3MzExMTUsODk4NjM2Nzk3
-LDE3MzY3NjgwNTJdfQ==
+eyJoaXN0b3J5IjpbLTU3MDkwMjg5NiwxNDkxMzkxMzAwLDE3ND
+M1Nzc1NjgsMTc3Mjg3Mjk3Myw2ODQyNzgzNDgsLTE3NjczMTEx
+NSw4OTg2MzY3OTcsMTczNjc2ODA1Ml19
 -->
