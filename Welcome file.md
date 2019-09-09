@@ -504,6 +504,8 @@ for(String number: numbers)
 	* Global
 		* Attribute -- 0 or NULL 로 초기화
 
+### Object
+
 
 ## 7th
 
@@ -513,7 +515,7 @@ for(String number: numbers)
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEzMjg0OTkwLDE0OTEzOTEzMDAsMTc0Mz
-U3NzU2OCwxNzcyODcyOTczLDY4NDI3ODM0OCwtMTc2NzMxMTE1
-LDg5ODYzNjc5NywxNzM2NzY4MDUyXX0=
+eyJoaXN0b3J5IjpbLTIwMTE0NTcwMjYsMzEzMjg0OTkwLDE0OT
+EzOTEzMDAsMTc0MzU3NzU2OCwxNzcyODcyOTczLDY4NDI3ODM0
+OCwtMTc2NzMxMTE1LDg5ODYzNjc5NywxNzM2NzY4MDUyXX0=
 -->
