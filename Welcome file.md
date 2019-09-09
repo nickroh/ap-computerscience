@@ -503,6 +503,8 @@ for(String number: numbers)
 		* D - Allocation -- JVM ( Garbage Collector )
 	* Global
 		* Attribute -- 0 or NULL 로 초기화
+
+
 ## 7th
 
 ## 8th
@@ -511,7 +513,7 @@ for(String number: numbers)
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTY2NzI5NCwxNDkxMzkxMzAwLDE3ND
-M1Nzc1NjgsMTc3Mjg3Mjk3Myw2ODQyNzgzNDgsLTE3NjczMTEx
-NSw4OTg2MzY3OTcsMTczNjc2ODA1Ml19
+eyJoaXN0b3J5IjpbMzEzMjg0OTkwLDE0OTEzOTEzMDAsMTc0Mz
+U3NzU2OCwxNzcyODcyOTczLDY4NDI3ODM0OCwtMTc2NzMxMTE1
+LDg5ODYzNjc5NywxNzM2NzY4MDUyXX0=
 -->
