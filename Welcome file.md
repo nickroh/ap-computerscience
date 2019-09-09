@@ -488,7 +488,7 @@ for(String number: numbers)
 * Index Out of Bound
 
 ## 6th
-
+* Class : User Defined Data Type	
 ## 7th
 
 ## 8th
@@ -497,7 +497,7 @@ for(String number: numbers)
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MzU3NzU2OCwxNzcyODcyOTczLDY4ND
-I3ODM0OCwtMTc2NzMxMTE1LDg5ODYzNjc5NywxNzM2NzY4MDUy
-XX0=
+eyJoaXN0b3J5IjpbMTQ5MTM5MTMwMCwxNzQzNTc3NTY4LDE3Nz
+I4NzI5NzMsNjg0Mjc4MzQ4LC0xNzY3MzExMTUsODk4NjM2Nzk3
+LDE3MzY3NjgwNTJdfQ==
 -->
