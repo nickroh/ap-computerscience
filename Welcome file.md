@@ -512,7 +512,7 @@ String class
 ### Method
 * equals 
 	* String 문자열 비교
-	* Object 동일하게
+	* Object 동일하게 (Super)
 * 더 가까이 속해있는 method가 실행된다
 
 ## 7th
@@ -523,8 +523,8 @@ String class
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTM2NzY2NSwzMDkxOTY1LDI5OTM0MT
-AyNSwtMjAxMTQ1NzAyNiwzMTMyODQ5OTAsMTQ5MTM5MTMwMCwx
-NzQzNTc3NTY4LDE3NzI4NzI5NzMsNjg0Mjc4MzQ4LC0xNzY3Mz
-ExMTUsODk4NjM2Nzk3LDE3MzY3NjgwNTJdfQ==
+eyJoaXN0b3J5IjpbLTExMjcxNTQ2NDksMzA5MTk2NSwyOTkzND
+EwMjUsLTIwMTE0NTcwMjYsMzEzMjg0OTkwLDE0OTEzOTEzMDAs
+MTc0MzU3NzU2OCwxNzcyODcyOTczLDY4NDI3ODM0OCwtMTc2Nz
+MxMTE1LDg5ODYzNjc5NywxNzM2NzY4MDUyXX0=
 -->
