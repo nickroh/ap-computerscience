@@ -509,7 +509,8 @@ for(String number: numbers)
 ### Class
 
 ### Method
-* E
+* equals 
+* 더 가까이 속해있는 method가 실행된다
 
 ## 7th
 
@@ -519,8 +520,8 @@ for(String number: numbers)
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTYwMzYyOCwyOTkzNDEwMjUsLTIwMT
-E0NTcwMjYsMzEzMjg0OTkwLDE0OTEzOTEzMDAsMTc0MzU3NzU2
-OCwxNzcyODcyOTczLDY4NDI3ODM0OCwtMTc2NzMxMTE1LDg5OD
-YzNjc5NywxNzM2NzY4MDUyXX0=
+eyJoaXN0b3J5IjpbMzA5MTk2NSwyOTkzNDEwMjUsLTIwMTE0NT
+cwMjYsMzEzMjg0OTkwLDE0OTEzOTEzMDAsMTc0MzU3NzU2OCwx
+NzcyODcyOTczLDY4NDI3ODM0OCwtMTc2NzMxMTE1LDg5ODYzNj
+c5NywxNzM2NzY4MDUyXX0=
 -->
