@@ -508,6 +508,9 @@ for(String number: numbers)
 
 ### Class
 
+### Method
+
+
 ## 7th
 
 ## 8th
@@ -516,7 +519,7 @@ for(String number: numbers)
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxODU5NjA1LC0yMDExNDU3MDI2LDMxMz
+eyJoaXN0b3J5IjpbMjk5MzQxMDI1LC0yMDExNDU3MDI2LDMxMz
 I4NDk5MCwxNDkxMzkxMzAwLDE3NDM1Nzc1NjgsMTc3Mjg3Mjk3
 Myw2ODQyNzgzNDgsLTE3NjczMTExNSw4OTg2MzY3OTcsMTczNj
 c2ODA1Ml19
