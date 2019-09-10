@@ -516,12 +516,12 @@ for(String number: numbers)
 	* Up 
 	* Down
 ```java
-List<Integer>a = new ArrayList<Integer>();
+List<Integer>a = new ArrayList<Integer>(); // upcasting 하는 이유는 
 
 List<Integer> list = getList();
 				   = a;
 				 
-System.out.println(a); --> ArrayList으
+System.out.println(a); // ArrayList의 to string 실행
 ```
 
 ### Method
@@ -543,10 +543,10 @@ System.out.println(a); --> ArrayList으
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI5MzAzNywtMTQ5MTg4ODQ5MSw4Nz
-Y0OTUyMywtNjMyNDE3NDIzLDE1NTExOTc3MzYsLTE4Mzc1MzQ1
-NjksLTExMjcxNTQ2NDksMzA5MTk2NSwyOTkzNDEwMjUsLTIwMT
-E0NTcwMjYsMzEzMjg0OTkwLDE0OTEzOTEzMDAsMTc0MzU3NzU2
-OCwxNzcyODcyOTczLDY4NDI3ODM0OCwtMTc2NzMxMTE1LDg5OD
-YzNjc5NywxNzM2NzY4MDUyXX0=
+eyJoaXN0b3J5IjpbLTIwMDMzNTUxMDIsLTE0OTE4ODg0OTEsOD
+c2NDk1MjMsLTYzMjQxNzQyMywxNTUxMTk3NzM2LC0xODM3NTM0
+NTY5LC0xMTI3MTU0NjQ5LDMwOTE5NjUsMjk5MzQxMDI1LC0yMD
+ExNDU3MDI2LDMxMzI4NDk5MCwxNDkxMzkxMzAwLDE3NDM1Nzc1
+NjgsMTc3Mjg3Mjk3Myw2ODQyNzgzNDgsLTE3NjczMTExNSw4OT
+g2MzY3OTcsMTczNjc2ODA1Ml19
 -->
