@@ -506,6 +506,7 @@ for(String number: numbers)
 
 ### Object
 
+### Class
 
 ## 7th
 
@@ -515,7 +516,8 @@ for(String number: numbers)
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTE0NTcwMjYsMzEzMjg0OTkwLDE0OT
-EzOTEzMDAsMTc0MzU3NzU2OCwxNzcyODcyOTczLDY4NDI3ODM0
-OCwtMTc2NzMxMTE1LDg5ODYzNjc5NywxNzM2NzY4MDUyXX0=
+eyJoaXN0b3J5IjpbNjYxODU5NjA1LC0yMDExNDU3MDI2LDMxMz
+I4NDk5MCwxNDkxMzkxMzAwLDE3NDM1Nzc1NjgsMTc3Mjg3Mjk3
+Myw2ODQyNzgzNDgsLTE3NjczMTExNSw4OTg2MzY3OTcsMTczNj
+c2ODA1Ml19
 -->
