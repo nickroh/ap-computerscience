@@ -521,7 +521,7 @@ String class
 * 더 가까이 속해있는 method가 실행된다
 
 #### Static Method
-
+* 클래스 명으로 바로 접근 가능하다
 #### Instance Method
 ## 7th
 
@@ -531,9 +531,10 @@ String class
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc2NDk1MjMsLTYzMjQxNzQyMywxNTUxMT
-k3NzM2LC0xODM3NTM0NTY5LC0xMTI3MTU0NjQ5LDMwOTE5NjUs
-Mjk5MzQxMDI1LC0yMDExNDU3MDI2LDMxMzI4NDk5MCwxNDkxMz
-kxMzAwLDE3NDM1Nzc1NjgsMTc3Mjg3Mjk3Myw2ODQyNzgzNDgs
-LTE3NjczMTExNSw4OTg2MzY3OTcsMTczNjc2ODA1Ml19
+eyJoaXN0b3J5IjpbLTE2NzgyNzI1NTYsODc2NDk1MjMsLTYzMj
+QxNzQyMywxNTUxMTk3NzM2LC0xODM3NTM0NTY5LC0xMTI3MTU0
+NjQ5LDMwOTE5NjUsMjk5MzQxMDI1LC0yMDExNDU3MDI2LDMxMz
+I4NDk5MCwxNDkxMzkxMzAwLDE3NDM1Nzc1NjgsMTc3Mjg3Mjk3
+Myw2ODQyNzgzNDgsLTE3NjczMTExNSw4OTg2MzY3OTcsMTczNj
+c2ODA1Ml19
 -->
