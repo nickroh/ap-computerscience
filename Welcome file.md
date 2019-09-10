@@ -513,7 +513,8 @@ for(String number: numbers)
 	* void
 
 * Casting 
-	* Up
+	* Up 
+	* Down
 String class
 * JAVA API Documentation
 ### Method
@@ -535,7 +536,7 @@ String class
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzAyMTkyOTMsODc2NDk1MjMsLTYzMj
+eyJoaXN0b3J5IjpbLTE0OTE4ODg0OTEsODc2NDk1MjMsLTYzMj
 QxNzQyMywxNTUxMTk3NzM2LC0xODM3NTM0NTY5LC0xMTI3MTU0
 NjQ5LDMwOTE5NjUsMjk5MzQxMDI1LC0yMDExNDU3MDI2LDMxMz
 I4NDk5MCwxNDkxMzkxMzAwLDE3NDM1Nzc1NjgsMTc3Mjg3Mjk3
