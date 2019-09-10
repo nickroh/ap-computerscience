@@ -521,7 +521,7 @@ String class
 * 더 가까이 속해있는 method가 실행된다
 
 #### Static Method
-선거 끝나면 좀 괜찮아져?ㄴ sat
+
 ## 7th
 
 ## 8th
@@ -530,7 +530,7 @@ String class
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTM3OTY4OSwxNTUxMTk3NzM2LC0xOD
+eyJoaXN0b3J5IjpbLTYzMjQxNzQyMywxNTUxMTk3NzM2LC0xOD
 M3NTM0NTY5LC0xMTI3MTU0NjQ5LDMwOTE5NjUsMjk5MzQxMDI1
 LC0yMDExNDU3MDI2LDMxMzI4NDk5MCwxNDkxMzkxMzAwLDE3ND
 M1Nzc1NjgsMTc3Mjg3Mjk3Myw2ODQyNzgzNDgsLTE3NjczMTEx
