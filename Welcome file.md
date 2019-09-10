@@ -507,6 +507,8 @@ for(String number: numbers)
 ### Object
 
 ### Class
+* Object
+	* String class
 String class
 * JAVA API Documentation
 ### Method
@@ -523,8 +525,9 @@ String class
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjcxNTQ2NDksMzA5MTk2NSwyOTkzND
-EwMjUsLTIwMTE0NTcwMjYsMzEzMjg0OTkwLDE0OTEzOTEzMDAs
-MTc0MzU3NzU2OCwxNzcyODcyOTczLDY4NDI3ODM0OCwtMTc2Nz
-MxMTE1LDg5ODYzNjc5NywxNzM2NzY4MDUyXX0=
+eyJoaXN0b3J5IjpbLTE4Mzc1MzQ1NjksLTExMjcxNTQ2NDksMz
+A5MTk2NSwyOTkzNDEwMjUsLTIwMTE0NTcwMjYsMzEzMjg0OTkw
+LDE0OTEzOTEzMDAsMTc0MzU3NzU2OCwxNzcyODcyOTczLDY4ND
+I3ODM0OCwtMTc2NzMxMTE1LDg5ODYzNjc5NywxNzM2NzY4MDUy
+XX0=
 -->
