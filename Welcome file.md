@@ -507,7 +507,8 @@ for(String number: numbers)
 ### Object
 
 ### Class
-
+String class
+* JAVA API Documentation
 ### Method
 * equals 
 * 더 가까이 속해있는 method가 실행된다
@@ -520,8 +521,8 @@ for(String number: numbers)
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5MTk2NSwyOTkzNDEwMjUsLTIwMTE0NT
-cwMjYsMzEzMjg0OTkwLDE0OTEzOTEzMDAsMTc0MzU3NzU2OCwx
-NzcyODcyOTczLDY4NDI3ODM0OCwtMTc2NzMxMTE1LDg5ODYzNj
-c5NywxNzM2NzY4MDUyXX0=
+eyJoaXN0b3J5IjpbLTEyMTMxMDYyODIsMzA5MTk2NSwyOTkzND
+EwMjUsLTIwMTE0NTcwMjYsMzEzMjg0OTkwLDE0OTEzOTEzMDAs
+MTc0MzU3NzU2OCwxNzcyODcyOTczLDY4NDI3ODM0OCwtMTc2Nz
+MxMTE1LDg5ODYzNjc5NywxNzM2NzY4MDUyXX0=
 -->
