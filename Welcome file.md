@@ -516,7 +516,8 @@ for(String number: numbers)
 	* Up 
 	* Down
 ```java
-List<Integer>a = new ArrayList<Integer>(); // upcasting 하는 이유는 
+List<Integer>a = new ArrayList<Integer>(); // upcasting 하는 이유는 List안에 다양한거가 포함될수 있다 ex) Linked List
+
 
 List<Integer> list = getList();
 				   = a;
@@ -543,7 +544,7 @@ System.out.println(a); // ArrayList의 to string 실행
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDMzNTUxMDIsLTE0OTE4ODg0OTEsOD
+eyJoaXN0b3J5IjpbLTE3NTYwMjE0OTYsLTE0OTE4ODg0OTEsOD
 c2NDk1MjMsLTYzMjQxNzQyMywxNTUxMTk3NzM2LC0xODM3NTM0
 NTY5LC0xMTI3MTU0NjQ5LDMwOTE5NjUsMjk5MzQxMDI1LC0yMD
 ExNDU3MDI2LDMxMzI4NDk5MCwxNDkxMzkxMzAwLDE3NDM1Nzc1
