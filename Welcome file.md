@@ -517,12 +517,15 @@ for(String number: numbers)
 	* Down
 ```java
 List<Integer>a = new ArrayList<Integer>(); // upcasting 하는 이유는 List안에 다양한거가 포함될수 있다 ex) Linked List
-
+List<Integer>c =  new LinkedList<Integer>();
 
 List<Integer> list = getList();
 				   = a;
 				 
 System.out.println(a); // ArrayList의 to string 실행
+
+writeList(a); // 하나의 writeList만 있으면 된다
+writeList(c);
 ```
 
 ### Method
@@ -544,10 +547,10 @@ System.out.println(a); // ArrayList의 to string 실행
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTYwMjE0OTYsLTE0OTE4ODg0OTEsOD
-c2NDk1MjMsLTYzMjQxNzQyMywxNTUxMTk3NzM2LC0xODM3NTM0
-NTY5LC0xMTI3MTU0NjQ5LDMwOTE5NjUsMjk5MzQxMDI1LC0yMD
-ExNDU3MDI2LDMxMzI4NDk5MCwxNDkxMzkxMzAwLDE3NDM1Nzc1
-NjgsMTc3Mjg3Mjk3Myw2ODQyNzgzNDgsLTE3NjczMTExNSw4OT
-g2MzY3OTcsMTczNjc2ODA1Ml19
+eyJoaXN0b3J5IjpbLTE0NjcxMTg3NDQsLTE3NTYwMjE0OTYsLT
+E0OTE4ODg0OTEsODc2NDk1MjMsLTYzMjQxNzQyMywxNTUxMTk3
+NzM2LC0xODM3NTM0NTY5LC0xMTI3MTU0NjQ5LDMwOTE5NjUsMj
+k5MzQxMDI1LC0yMDExNDU3MDI2LDMxMzI4NDk5MCwxNDkxMzkx
+MzAwLDE3NDM1Nzc1NjgsMTc3Mjg3Mjk3Myw2ODQyNzgzNDgsLT
+E3NjczMTExNSw4OTg2MzY3OTcsMTczNjc2ODA1Ml19
 -->
