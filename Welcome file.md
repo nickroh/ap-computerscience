@@ -527,7 +527,7 @@ System.out.println(a); // ArrayList의 to string 실행
 writeList(a); // 하나의 writeList만 있으면 된다
 writeList(c);
 ```
-
+* Interface
 ### Method
 * equals 
 	* String 문자열 비교
@@ -547,10 +547,11 @@ writeList(c);
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjcxMTg3NDQsLTE3NTYwMjE0OTYsLT
-E0OTE4ODg0OTEsODc2NDk1MjMsLTYzMjQxNzQyMywxNTUxMTk3
-NzM2LC0xODM3NTM0NTY5LC0xMTI3MTU0NjQ5LDMwOTE5NjUsMj
-k5MzQxMDI1LC0yMDExNDU3MDI2LDMxMzI4NDk5MCwxNDkxMzkx
-MzAwLDE3NDM1Nzc1NjgsMTc3Mjg3Mjk3Myw2ODQyNzgzNDgsLT
-E3NjczMTExNSw4OTg2MzY3OTcsMTczNjc2ODA1Ml19
+eyJoaXN0b3J5IjpbLTE0MDk5MjA2NSwtMTQ2NzExODc0NCwtMT
+c1NjAyMTQ5NiwtMTQ5MTg4ODQ5MSw4NzY0OTUyMywtNjMyNDE3
+NDIzLDE1NTExOTc3MzYsLTE4Mzc1MzQ1NjksLTExMjcxNTQ2ND
+ksMzA5MTk2NSwyOTkzNDEwMjUsLTIwMTE0NTcwMjYsMzEzMjg0
+OTkwLDE0OTEzOTEzMDAsMTc0MzU3NzU2OCwxNzcyODcyOTczLD
+Y4NDI3ODM0OCwtMTc2NzMxMTE1LDg5ODYzNjc5NywxNzM2NzY4
+MDUyXX0=
 -->
