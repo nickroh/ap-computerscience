@@ -511,7 +511,9 @@ for(String number: numbers)
 	* String 
 	* int 
 	* void
-	* 
+
+* Casting 
+	* Up
 String class
 * JAVA API Documentation
 ### Method
@@ -522,6 +524,8 @@ String class
 
 #### Static Method
 * 클래스 명으로 바로 접근 가능하다
+
+[static method](https://dev-jangwon.github.io/java/2017/06/26/java-static/)
 #### Instance Method
 ## 7th
 
@@ -531,7 +535,7 @@ String class
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzgyNzI1NTYsODc2NDk1MjMsLTYzMj
+eyJoaXN0b3J5IjpbLTEzMzAyMTkyOTMsODc2NDk1MjMsLTYzMj
 QxNzQyMywxNTUxMTk3NzM2LC0xODM3NTM0NTY5LC0xMTI3MTU0
 NjQ5LDMwOTE5NjUsMjk5MzQxMDI1LC0yMDExNDU3MDI2LDMxMz
 I4NDk5MCwxNDkxMzkxMzAwLDE3NDM1Nzc1NjgsMTc3Mjg3Mjk3
