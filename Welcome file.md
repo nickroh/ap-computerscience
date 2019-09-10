@@ -520,6 +520,8 @@ String class
 	* Object 동일하게 (Super)
 * 더 가까이 속해있는 method가 실행된다
 
+#### Static Method
+선거 끝나면 좀 괜찮아져?ㄴ sat
 ## 7th
 
 ## 8th
@@ -528,9 +530,9 @@ String class
 ### CHN 패키지 설치
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTE5NzczNiwtMTgzNzUzNDU2OSwtMT
-EyNzE1NDY0OSwzMDkxOTY1LDI5OTM0MTAyNSwtMjAxMTQ1NzAy
-NiwzMTMyODQ5OTAsMTQ5MTM5MTMwMCwxNzQzNTc3NTY4LDE3Nz
-I4NzI5NzMsNjg0Mjc4MzQ4LC0xNzY3MzExMTUsODk4NjM2Nzk3
-LDE3MzY3NjgwNTJdfQ==
+eyJoaXN0b3J5IjpbLTgyOTM3OTY4OSwxNTUxMTk3NzM2LC0xOD
+M3NTM0NTY5LC0xMTI3MTU0NjQ5LDMwOTE5NjUsMjk5MzQxMDI1
+LC0yMDExNDU3MDI2LDMxMzI4NDk5MCwxNDkxMzkxMzAwLDE3ND
+M1Nzc1NjgsMTc3Mjg3Mjk3Myw2ODQyNzgzNDgsLTE3NjczMTEx
+NSw4OTg2MzY3OTcsMTczNjc2ODA1Ml19
 -->
