@@ -550,13 +550,13 @@ writeList(c);
 	- java 컴파일시 현재 디렉토리에 javac가 없으면 환경변수에서 찾아본다
 [생활코딩 - classpath](https://www.opentutorials.org/course/1223/5527)
 * .jar ( java archive )
-	- ClassPath: 현재 디렉토리에 클래스 파일이 없으면 어디에서부터 찾기 시작하는지
+	- ClassPath -- 현재 디렉토리에 클래스 파일이 없으면 어디에서부터 찾기 시작하는지
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2MTU2NDc3LC0yMDE5NTY4MjUxLC0xND
-A5OTIwNjUsLTE0NjcxMTg3NDQsLTE3NTYwMjE0OTYsLTE0OTE4
-ODg0OTEsODc2NDk1MjMsLTYzMjQxNzQyMywxNTUxMTk3NzM2LC
-0xODM3NTM0NTY5LC0xMTI3MTU0NjQ5LDMwOTE5NjUsMjk5MzQx
-MDI1LC0yMDExNDU3MDI2LDMxMzI4NDk5MCwxNDkxMzkxMzAwLD
-E3NDM1Nzc1NjgsMTc3Mjg3Mjk3Myw2ODQyNzgzNDgsLTE3Njcz
-MTExNV19
+eyJoaXN0b3J5IjpbLTEyMTg2NTIyODUsNjU2MTU2NDc3LC0yMD
+E5NTY4MjUxLC0xNDA5OTIwNjUsLTE0NjcxMTg3NDQsLTE3NTYw
+MjE0OTYsLTE0OTE4ODg0OTEsODc2NDk1MjMsLTYzMjQxNzQyMy
+wxNTUxMTk3NzM2LC0xODM3NTM0NTY5LC0xMTI3MTU0NjQ5LDMw
+OTE5NjUsMjk5MzQxMDI1LC0yMDExNDU3MDI2LDMxMzI4NDk5MC
+wxNDkxMzkxMzAwLDE3NDM1Nzc1NjgsMTc3Mjg3Mjk3Myw2ODQy
+NzgzNDhdfQ==
 -->
