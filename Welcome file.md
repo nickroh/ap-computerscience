@@ -548,15 +548,15 @@ writeList(c);
 ### CHN 패키지 설치
 * Path ( 환경변수 )
 	- java 컴파일시 현재 디렉토리에 javac가 없으면 환경변수에서 찾아본다
-	
+[생활코딩 - classpath](https://www.opentutorials.org/course/1223/5527)
 * .jar ( java archive )
-	- ClassPath 
+	- ClassPath: 현재 디렉토리에 클래스 파일이 없으면 어디에서부터 찾기 시작하는지
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzUyNjE1MiwtMjAxOTU2ODI1MSwtMT
-QwOTkyMDY1LC0xNDY3MTE4NzQ0LC0xNzU2MDIxNDk2LC0xNDkx
-ODg4NDkxLDg3NjQ5NTIzLC02MzI0MTc0MjMsMTU1MTE5NzczNi
-wtMTgzNzUzNDU2OSwtMTEyNzE1NDY0OSwzMDkxOTY1LDI5OTM0
-MTAyNSwtMjAxMTQ1NzAyNiwzMTMyODQ5OTAsMTQ5MTM5MTMwMC
-wxNzQzNTc3NTY4LDE3NzI4NzI5NzMsNjg0Mjc4MzQ4LC0xNzY3
-MzExMTVdfQ==
+eyJoaXN0b3J5IjpbNjU2MTU2NDc3LC0yMDE5NTY4MjUxLC0xND
+A5OTIwNjUsLTE0NjcxMTg3NDQsLTE3NTYwMjE0OTYsLTE0OTE4
+ODg0OTEsODc2NDk1MjMsLTYzMjQxNzQyMywxNTUxMTk3NzM2LC
+0xODM3NTM0NTY5LC0xMTI3MTU0NjQ5LDMwOTE5NjUsMjk5MzQx
+MDI1LC0yMDExNDU3MDI2LDMxMzI4NDk5MCwxNDkxMzkxMzAwLD
+E3NDM1Nzc1NjgsMTc3Mjg3Mjk3Myw2ODQyNzgzNDgsLTE3Njcz
+MTExNV19
 -->
