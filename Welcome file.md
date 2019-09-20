@@ -552,7 +552,10 @@ writeList(c);
 * 변수의 범위 
 ### D-Allocation
 * JVM - Garbage Collector
+
+[ This](https://blog.naver.com/PostView.nhn?blogId=heartflow89&logNo=220957355593&beginTime=0&jumpingVid=&from=section&redirect=Log&widgetTypeCall=true)
 ### This
+[ This](https://blog.naver.com/PostView.nhn?blogId=heartflow89&logNo=220957355593&beginTime=0&jumpingVid=&from=section&redirect=Log&widgetTypeCall=true)
 * 현재 object 를 가르키는 reserved 키워드
 ### Super
 * 뒤에 클래스가 생략되어있다 
@@ -572,7 +575,7 @@ writeList(c);
 
 file IO 사용하기
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDk4Mjg0NiwtMTc3MDE0MzQxNiwtMT
+eyJoaXN0b3J5IjpbLTQxOTM5MTY1OCwtMTc3MDE0MzQxNiwtMT
 IxODY1MjI4NSw2NTYxNTY0NzcsLTIwMTk1NjgyNTEsLTE0MDk5
 MjA2NSwtMTQ2NzExODc0NCwtMTc1NjAyMTQ5NiwtMTQ5MTg4OD
 Q5MSw4NzY0OTUyMywtNjMyNDE3NDIzLDE1NTExOTc3MzYsLTE4
