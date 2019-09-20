@@ -605,11 +605,11 @@ A < - D
 	c.b();
 	c.a();
 ```
-* Collection Interface
+* Interface Example
 ```java
 C --> a(); // 이게 인터페이스
-A --> a();
-B --> a();
+A --> a(); // realize
+B --> a(); // realize
 
 a = new A();
 a.a(); // A꺼 실행
@@ -633,7 +633,7 @@ b.a; // B꺼 실행
 
 file IO 사용하기
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyMTUzNjQ4LDE4NjQ5MDE5MzEsODMyMD
+eyJoaXN0b3J5IjpbOTYzMTI4OTMwLDE4NjQ5MDE5MzEsODMyMD
 Y4OTA2LC0xNjgyOTA0ODk3LDE1OTcyMDkxNTMsLTQ3MjIzMzA1
 MywtMTc3MDE0MzQxNiwtMTIxODY1MjI4NSw2NTYxNTY0NzcsLT
 IwMTk1NjgyNTEsLTE0MDk5MjA2NSwtMTQ2NzExODc0NCwtMTc1
