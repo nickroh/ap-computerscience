@@ -580,7 +580,7 @@ writeList(c);
 	메소드의 head 만 존재한다
 	A 클래스에서 realize 해주어야 한다
 
-* Abstract Class --> new 로 생성 못한다 abstract 하면,,ㅁㄷ아ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ
+* Abstract Class --> new 로 생성 못한다 abstract 하면,, realize 해주어야 하는거임
 	```java
 		List<Integer> a = new ArrayList<Integer>();
 	``` 
@@ -610,11 +610,11 @@ A < - D
 
 file IO 사용하기
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3NTEyNzAsMTg2NDkwMTkzMSw4MzIwNj
-g5MDYsLTE2ODI5MDQ4OTcsMTU5NzIwOTE1MywtNDcyMjMzMDUz
-LC0xNzcwMTQzNDE2LC0xMjE4NjUyMjg1LDY1NjE1NjQ3NywtMj
-AxOTU2ODI1MSwtMTQwOTkyMDY1LC0xNDY3MTE4NzQ0LC0xNzU2
-MDIxNDk2LC0xNDkxODg4NDkxLDg3NjQ5NTIzLC02MzI0MTc0Mj
-MsMTU1MTE5NzczNiwtMTgzNzUzNDU2OSwtMTEyNzE1NDY0OSwz
-MDkxOTY1XX0=
+eyJoaXN0b3J5IjpbNDc4NzM0NzIyLDE4NjQ5MDE5MzEsODMyMD
+Y4OTA2LC0xNjgyOTA0ODk3LDE1OTcyMDkxNTMsLTQ3MjIzMzA1
+MywtMTc3MDE0MzQxNiwtMTIxODY1MjI4NSw2NTYxNTY0NzcsLT
+IwMTk1NjgyNTEsLTE0MDk5MjA2NSwtMTQ2NzExODc0NCwtMTc1
+NjAyMTQ5NiwtMTQ5MTg4ODQ5MSw4NzY0OTUyMywtNjMyNDE3ND
+IzLDE1NTExOTc3MzYsLTE4Mzc1MzQ1NjksLTExMjcxNTQ2NDks
+MzA5MTk2NV19
 -->
