@@ -542,7 +542,10 @@ writeList(c);
 ## 7th
 ### Method Overloading
 
-### Method Over
+### Method Overriding
+
+* equals 
+* hashcode
 
 ## 8th
 
@@ -559,7 +562,7 @@ writeList(c);
 
 file IO 사용하기
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODUyMjk1MCwtMTc3MDE0MzQxNiwtMT
+eyJoaXN0b3J5IjpbMjAyOTA0NjA1MSwtMTc3MDE0MzQxNiwtMT
 IxODY1MjI4NSw2NTYxNTY0NzcsLTIwMTk1NjgyNTEsLTE0MDk5
 MjA2NSwtMTQ2NzExODc0NCwtMTc1NjAyMTQ5NiwtMTQ5MTg4OD
 Q5MSw4NzY0OTUyMywtNjMyNDE3NDIzLDE1NTExOTc3MzYsLTE4
