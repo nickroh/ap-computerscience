@@ -550,6 +550,9 @@ writeList(c);
 
 ### Scope
 * 변수의 범위 
+### D-Allocation
+* JVM - Garbage Collector
+### This
 
 ## 8th
 
@@ -566,7 +569,7 @@ writeList(c);
 
 file IO 사용하기
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDIzNTMxNiwtMTc3MDE0MzQxNiwtMT
+eyJoaXN0b3J5IjpbMjA0MjE5Nzc5NywtMTc3MDE0MzQxNiwtMT
 IxODY1MjI4NSw2NTYxNTY0NzcsLTIwMTk1NjgyNTEsLTE0MDk5
 MjA2NSwtMTQ2NzExODc0NCwtMTc1NjAyMTQ5NiwtMTQ5MTg4OD
 Q5MSw4NzY0OTUyMywtNjMyNDE3NDIzLDE1NTExOTc3MzYsLTE4
