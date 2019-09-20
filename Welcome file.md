@@ -607,15 +607,15 @@ A < - D
 ```
 * Collection Interface
 ```java
-C --> a();
+C --> a(); // 이게 인터페이스
 A --> a();
 B --> a();
 
 a = new A();
-a.a();
+a.a(); // A꺼 실행
 
 C b =new B();
-b.a;
+b.a; // B꺼 실행
 ```
 
 ## 8th
@@ -633,7 +633,7 @@ b.a;
 
 file IO 사용하기
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyMDg0NTEzLDE4NjQ5MDE5MzEsODMyMD
+eyJoaXN0b3J5IjpbNTQyMTUzNjQ4LDE4NjQ5MDE5MzEsODMyMD
 Y4OTA2LC0xNjgyOTA0ODk3LDE1OTcyMDkxNTMsLTQ3MjIzMzA1
 MywtMTc3MDE0MzQxNiwtMTIxODY1MjI4NSw2NTYxNTY0NzcsLT
 IwMTk1NjgyNTEsLTE0MDk5MjA2NSwtMTQ2NzExODc0NCwtMTc1
