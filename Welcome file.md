@@ -569,10 +569,11 @@ writeList(c);
 - abstract
 - class
 
-* super class
+
 ```java
 	public class A extends B implemented C,D
 ```
+* super class
 * Single Inheritance --> A < B ex) A = UAZ , B = car
 
 * Interface : 중복 가능 
@@ -588,6 +589,12 @@ writeList(c);
 A <-- B
 A < - C
 A < - D
+```java
+	A a = new A();
+	B b = new A();
+	C c - new A();
+```
+
 ## 8th
 
 ## Null
@@ -603,11 +610,11 @@ A < - D
 
 file IO 사용하기
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTQzNzIzNiwxODY0OTAxOTMxLDgzMj
-A2ODkwNiwtMTY4MjkwNDg5NywxNTk3MjA5MTUzLC00NzIyMzMw
-NTMsLTE3NzAxNDM0MTYsLTEyMTg2NTIyODUsNjU2MTU2NDc3LC
-0yMDE5NTY4MjUxLC0xNDA5OTIwNjUsLTE0NjcxMTg3NDQsLTE3
-NTYwMjE0OTYsLTE0OTE4ODg0OTEsODc2NDk1MjMsLTYzMjQxNz
-QyMywxNTUxMTk3NzM2LC0xODM3NTM0NTY5LC0xMTI3MTU0NjQ5
-LDMwOTE5NjVdfQ==
+eyJoaXN0b3J5IjpbMTk5MDM4MTAwLDE4NjQ5MDE5MzEsODMyMD
+Y4OTA2LC0xNjgyOTA0ODk3LDE1OTcyMDkxNTMsLTQ3MjIzMzA1
+MywtMTc3MDE0MzQxNiwtMTIxODY1MjI4NSw2NTYxNTY0NzcsLT
+IwMTk1NjgyNTEsLTE0MDk5MjA2NSwtMTQ2NzExODc0NCwtMTc1
+NjAyMTQ5NiwtMTQ5MTg4ODQ5MSw4NzY0OTUyMywtNjMyNDE3ND
+IzLDE1NTExOTc3MzYsLTE4Mzc1MzQ1NjksLTExMjcxNTQ2NDks
+MzA5MTk2NV19
 -->
