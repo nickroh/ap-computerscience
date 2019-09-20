@@ -567,8 +567,10 @@ writeList(c);
 ### Inheritance & Polymorphism
 * super class
 ```java
-	public class A extends B implemented C,D) )
+	public class A extends B implemented C,D
 ```
+* Single Inheritance
+* Interface : 중복 가능 
 
 ## 8th
 
@@ -585,7 +587,7 @@ writeList(c);
 
 file IO 사용하기
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTUxNjgyOCwtMTY4MjkwNDg5NywxNT
+eyJoaXN0b3J5IjpbLTk0MTY2MDI0MCwtMTY4MjkwNDg5NywxNT
 k3MjA5MTUzLC00NzIyMzMwNTMsLTE3NzAxNDM0MTYsLTEyMTg2
 NTIyODUsNjU2MTU2NDc3LC0yMDE5NTY4MjUxLC0xNDA5OTIwNj
 UsLTE0NjcxMTg3NDQsLTE3NTYwMjE0OTYsLTE0OTE4ODg0OTEs
