@@ -573,11 +573,11 @@ writeList(c);
 ```java
 	public class A extends B implemented C,D
 ```
-* Single Inheritance
+* Single Inheritance --> A < B ex) A = UAZ , B = car
 
 * Interface : 중복 가능 
 	메소드의 head 만 존재한다
-
+	A 클래스에서 realize 해주어야 한다
 ## 8th
 
 ## Null
@@ -593,11 +593,11 @@ writeList(c);
 
 file IO 사용하기
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyMDY4OTA2LC0xNjgyOTA0ODk3LDE1OT
-cyMDkxNTMsLTQ3MjIzMzA1MywtMTc3MDE0MzQxNiwtMTIxODY1
-MjI4NSw2NTYxNTY0NzcsLTIwMTk1NjgyNTEsLTE0MDk5MjA2NS
-wtMTQ2NzExODc0NCwtMTc1NjAyMTQ5NiwtMTQ5MTg4ODQ5MSw4
-NzY0OTUyMywtNjMyNDE3NDIzLDE1NTExOTc3MzYsLTE4Mzc1Mz
-Q1NjksLTExMjcxNTQ2NDksMzA5MTk2NSwyOTkzNDEwMjUsLTIw
-MTE0NTcwMjZdfQ==
+eyJoaXN0b3J5IjpbMTg2NDkwMTkzMSw4MzIwNjg5MDYsLTE2OD
+I5MDQ4OTcsMTU5NzIwOTE1MywtNDcyMjMzMDUzLC0xNzcwMTQz
+NDE2LC0xMjE4NjUyMjg1LDY1NjE1NjQ3NywtMjAxOTU2ODI1MS
+wtMTQwOTkyMDY1LC0xNDY3MTE4NzQ0LC0xNzU2MDIxNDk2LC0x
+NDkxODg4NDkxLDg3NjQ5NTIzLC02MzI0MTc0MjMsMTU1MTE5Nz
+czNiwtMTgzNzUzNDU2OSwtMTEyNzE1NDY0OSwzMDkxOTY1LDI5
+OTM0MTAyNV19
 -->
