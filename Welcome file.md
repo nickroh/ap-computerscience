@@ -540,11 +540,12 @@ writeList(c);
 [static method](https://dev-jangwon.github.io/java/2017/06/26/java-static/)
 #### Instance Method
 ## 7th
+[Method Overloading & Overriding](https://animal-park.tistory.com/23)
 ### Method Overloading
 
 ### Method Overriding
 
-* equals 
+* equals --> 오버라이딩 해서 사용하는 경우가 많다 ex) String 클래스
 * hashcode
 
 ## 8th
@@ -562,11 +563,11 @@ writeList(c);
 
 file IO 사용하기
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTA0NjA1MSwtMTc3MDE0MzQxNiwtMT
-IxODY1MjI4NSw2NTYxNTY0NzcsLTIwMTk1NjgyNTEsLTE0MDk5
-MjA2NSwtMTQ2NzExODc0NCwtMTc1NjAyMTQ5NiwtMTQ5MTg4OD
-Q5MSw4NzY0OTUyMywtNjMyNDE3NDIzLDE1NTExOTc3MzYsLTE4
-Mzc1MzQ1NjksLTExMjcxNTQ2NDksMzA5MTk2NSwyOTkzNDEwMj
-UsLTIwMTE0NTcwMjYsMzEzMjg0OTkwLDE0OTEzOTEzMDAsMTc0
-MzU3NzU2OF19
+eyJoaXN0b3J5IjpbLTE4NDcwOTk2MjUsLTE3NzAxNDM0MTYsLT
+EyMTg2NTIyODUsNjU2MTU2NDc3LC0yMDE5NTY4MjUxLC0xNDA5
+OTIwNjUsLTE0NjcxMTg3NDQsLTE3NTYwMjE0OTYsLTE0OTE4OD
+g0OTEsODc2NDk1MjMsLTYzMjQxNzQyMywxNTUxMTk3NzM2LC0x
+ODM3NTM0NTY5LC0xMTI3MTU0NjQ5LDMwOTE5NjUsMjk5MzQxMD
+I1LC0yMDExNDU3MDI2LDMxMzI4NDk5MCwxNDkxMzkxMzAwLDE3
+NDM1Nzc1NjhdfQ==
 -->
