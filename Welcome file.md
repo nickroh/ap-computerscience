@@ -578,9 +578,9 @@ writeList(c);
 
 * Interface : 중복 가능 
 	메소드의 head 만 존재한다
-	A 클래스에서 realize 해주어야 한다
+	A 클래스에서 realize 해주어야 한다 --> body 를 만들어 주어야 한다
 
-* Abstract Class --> new 로 생성 못한다 abstract 하면,, realize 해주어야 하는거임
+* Abstract Class --> new 로 생성 못한다 abstract 하면,, realize 해주어야 하는거임 
 	```java
 		List<Integer> a = new ArrayList<Integer>();
 	``` 
@@ -610,7 +610,7 @@ A < - D
 
 file IO 사용하기
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4NzM0NzIyLDE4NjQ5MDE5MzEsODMyMD
+eyJoaXN0b3J5IjpbNDMyMjczMjkwLDE4NjQ5MDE5MzEsODMyMD
 Y4OTA2LC0xNjgyOTA0ODk3LDE1OTcyMDkxNTMsLTQ3MjIzMzA1
 MywtMTc3MDE0MzQxNiwtMTIxODY1MjI4NSw2NTYxNTY0NzcsLT
 IwMTk1NjgyNTEsLTE0MDk5MjA2NSwtMTQ2NzExODc0NCwtMTc1
