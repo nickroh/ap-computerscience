@@ -565,12 +565,18 @@ writeList(c);
 * Primitive & Reference 
 
 ### Inheritance & Polymorphism
+- interface
+- abstract
+- class
+
 * super class
 ```java
 	public class A extends B implemented C,D
 ```
 * Single Inheritance
+
 * Interface : 중복 가능 
+	메소드의 head 만 존재한다
 
 ## 8th
 
@@ -587,11 +593,11 @@ writeList(c);
 
 file IO 사용하기
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTY2MDI0MCwtMTY4MjkwNDg5NywxNT
-k3MjA5MTUzLC00NzIyMzMwNTMsLTE3NzAxNDM0MTYsLTEyMTg2
-NTIyODUsNjU2MTU2NDc3LC0yMDE5NTY4MjUxLC0xNDA5OTIwNj
-UsLTE0NjcxMTg3NDQsLTE3NTYwMjE0OTYsLTE0OTE4ODg0OTEs
-ODc2NDk1MjMsLTYzMjQxNzQyMywxNTUxMTk3NzM2LC0xODM3NT
-M0NTY5LC0xMTI3MTU0NjQ5LDMwOTE5NjUsMjk5MzQxMDI1LC0y
-MDExNDU3MDI2XX0=
+eyJoaXN0b3J5IjpbODMyMDY4OTA2LC0xNjgyOTA0ODk3LDE1OT
+cyMDkxNTMsLTQ3MjIzMzA1MywtMTc3MDE0MzQxNiwtMTIxODY1
+MjI4NSw2NTYxNTY0NzcsLTIwMTk1NjgyNTEsLTE0MDk5MjA2NS
+wtMTQ2NzExODc0NCwtMTc1NjAyMTQ5NiwtMTQ5MTg4ODQ5MSw4
+NzY0OTUyMywtNjMyNDE3NDIzLDE1NTExOTc3MzYsLTE4Mzc1Mz
+Q1NjksLTExMjcxNTQ2NDksMzA5MTk2NSwyOTkzNDEwMjUsLTIw
+MTE0NTcwMjZdfQ==
 -->
