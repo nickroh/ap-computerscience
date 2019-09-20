@@ -595,7 +595,11 @@ A < - D
 	C c = new A();
 ```
 ```java
-	B b = new A(); // B 에 a(int a), A 에 a()
+	B b = new A(); // B 에 a(int a), A 에 a(int a, int b) 메소드 있음
+	b.a(); // error
+	((A)b).a(0,0); // 괄호가 이렇게 치는 이유는 우선 순위 때문
+```
+
 ```
 
 ## 8th
@@ -613,7 +617,7 @@ A < - D
 
 file IO 사용하기
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDYyNzA0NywxODY0OTAxOTMxLDgzMj
+eyJoaXN0b3J5IjpbMTAwMDg5NTgwMCwxODY0OTAxOTMxLDgzMj
 A2ODkwNiwtMTY4MjkwNDg5NywxNTk3MjA5MTUzLC00NzIyMzMw
 NTMsLTE3NzAxNDM0MTYsLTEyMTg2NTIyODUsNjU2MTU2NDc3LC
 0yMDE5NTY4MjUxLC0xNDA5OTIwNjUsLTE0NjcxMTg3NDQsLTE3
