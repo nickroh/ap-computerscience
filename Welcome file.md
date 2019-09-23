@@ -628,7 +628,7 @@ b.a; // B꺼 실행
 * Implicit
 * Explicit
 
-
+### has a relationship
 ## 9th
 ## 10th
 
@@ -645,7 +645,7 @@ b.a; // B꺼 실행
 
 file IO 사용하기
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzQ3MTM5NiwtNTY4MjA1NzU5LDE4Nj
+eyJoaXN0b3J5IjpbMjAwNzE3NTY5MCwtNTY4MjA1NzU5LDE4Nj
 Q5MDE5MzEsODMyMDY4OTA2LC0xNjgyOTA0ODk3LDE1OTcyMDkx
 NTMsLTQ3MjIzMzA1MywtMTc3MDE0MzQxNiwtMTIxODY1MjI4NS
 w2NTYxNTY0NzcsLTIwMTk1NjgyNTEsLTE0MDk5MjA2NSwtMTQ2
