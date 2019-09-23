@@ -632,7 +632,7 @@ b.a; // B꺼 실행
 ### Is-A & Has-A relationship
 [읽어보기](https://gbs1995.tistory.com/41)
 
-### 
+###  Super
 
 ## 9th
 ## 10th
@@ -651,7 +651,7 @@ b.a; // B꺼 실행
 file IO 사용하기
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2Nzk3NzI1NiwxNDY3MzI0MDUsLTU2OD
+eyJoaXN0b3J5IjpbMTkwMjM5Mzg1MywxNDY3MzI0MDUsLTU2OD
 IwNTc1OSwxODY0OTAxOTMxLDgzMjA2ODkwNiwtMTY4MjkwNDg5
 NywxNTk3MjA5MTUzLC00NzIyMzMwNTMsLTE3NzAxNDM0MTYsLT
 EyMTg2NTIyODUsNjU2MTU2NDc3LC0yMDE5NTY4MjUxLC0xNDA5
