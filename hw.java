@@ -47,7 +47,7 @@ public class chn {
 			System.out.printf("%s 의 성적은  %.1f\n",data[i].name,data[i].score);
 		}
 		System.out.println("<----------------------------------->");
-		System.out.printf("분산과 표준편차는 %.1f 와 %.1f 입니다",getans[0],getans[1]);
+		System.out.printf("분산과 표준편차는 %.1f 와 %.1f 입니다 그리고 평균은 %.1f 입니다",getans[0],getans[1],avg);
 		 
 	}
 
