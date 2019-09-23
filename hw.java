@@ -4,11 +4,6 @@ import chn.util.*;
 public class chn {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-//		ConsoleIO a = new ConsoleIO();
-//		System.out.println("Number..");
-//		int num = a.readInt();
-//		System.out.println(num);
 		
 		double sum=0;
 		double avg;
@@ -21,16 +16,7 @@ public class chn {
 		int n;
 		n = inFile.readInt();
 		
-		
-		
-//		System.out.println(n);
-//		for(int i=0; i<n ;i++)
-//		{
-//			tmp[i] = inFile.readToken();
-//			tmp2[i]= inFile.readToken();
-//		}
-//		System.out.println(tmp[1]);
-		
+
 		for(int i=0; i<n ;i++)
 		{
 			data[i]=new Data();
@@ -40,12 +26,7 @@ public class chn {
 			data[i].b = inFile.readDouble();
 			data[i].c = inFile.readDouble();
 		}
-//		for(int i=0; i<n ;i++)
-//		{
-//			System.out.println(tmp[i]);
-//			System.out.println(tmp2[i]);
-//		}
-//		
+
 		for(int i=0;i<n;i++)
 		{
 			data[i].score = score(data[i].a,data[i].b,data[i].c);
