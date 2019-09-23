@@ -1,3 +1,5 @@
+//input file 예시와 output file 에시는 sample 폴더 안에 
+
 import chn.util.*;
 
 
