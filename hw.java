@@ -4,7 +4,7 @@ import chn.util.*;
 public class chn {
 
 	public static void main(String[] args) {
-		
+
 		double sum=0;
 		double avg;
 		
@@ -13,10 +13,11 @@ public class chn {
 		double[] getans;
 		
 		FileInput inFile = new FileInput("C:\\Users\\roh51\\Desktop\\STUDY\\AP Computer Science\\apcs.txt"); // 저장해논 파일 경로
+		FileOutput outFile = new FileOutput("C:\\Users\\roh51\\Desktop\\STUDY\\AP Computer Science\\apcs_out.txt");
 		int n;
 		n = inFile.readInt();
 		
-
+	
 		for(int i=0; i<n ;i++)
 		{
 			data[i]=new Data();
@@ -26,13 +27,12 @@ public class chn {
 			data[i].b = inFile.readDouble();
 			data[i].c = inFile.readDouble();
 		}
-
+	
 		for(int i=0;i<n;i++)
 		{
 			data[i].score = score(data[i].a,data[i].b,data[i].c);
 		}
-		
-		
+			
 		
 		for(int i=0; i<n;i++)
 		{
@@ -46,11 +46,29 @@ public class chn {
 		{
 			System.out.printf("%s 의 성적은  %.1f\n",data[i].name,data[i].score);
 		}
+		for(int i=0;i<n;i++)
+		{
+			double a = Double.parseDouble(String.format("%.1f",data[i].score));
+			outFile.print(data[i].name + "의 성적은");
+			outFile.print(a + " 점 입니다\n");
+		}
 		System.out.println("<----------------------------------->");
 		System.out.printf("분산과 표준편차는 %.1f 와 %.1f 입니다 그리고 평균은 %.1f 입니다",getans[0],getans[1],avg);
-		 
+		
+		
+		outFile.println();
+		outFile.print("<<---------------------------------------->>\n");
+		
+		double tmp1 = Double.parseDouble(String.format("%.1f",getans[0]));
+		double tmp2 = Double.parseDouble(String.format("%.1f",getans[1]));
+		double tmp3 = Double.parseDouble(String.format("%.1f",avg));
+		
+		outFile.print("분산은 " + tmp1);
+		outFile.print("표준편차는 " + tmp2);
+		outFile.print("평균은 " + tmp3);
+		
+		outFile.close();
 	}
-
 		
 	public static double score( double a,  double b, double c)
 	{
