@@ -5,22 +5,22 @@ public class chn {
 
 	public static void main(String[] args) {
 
-		double sum=0;
-		double avg;
+		double sum=0; // 성적 다 더한거
+		double avg; // 평균
 		
-		Data[] data = new Data[1000];
+		Data[] data = new Data[1000]; // 객체 배열
 		double[] stat = new double[200];
-		double[] getans;
+		double[] getans; 
 		
 		FileInput inFile = new FileInput("C:\\Users\\roh51\\Desktop\\STUDY\\AP Computer Science\\apcs.txt"); // 저장해논 파일 경로
 		FileOutput outFile = new FileOutput("C:\\Users\\roh51\\Desktop\\STUDY\\AP Computer Science\\apcs_out.txt"); // 결과를 출력할 파일을 만들 위치와 파일 이름
 		int n;
-		n = inFile.readInt();
+		n = inFile.readInt(); // 학생수
 		
 	
 		for(int i=0; i<n ;i++)
 		{
-			data[i]=new Data();
+			data[i]=new Data(); 
 			
 			data[i].name = inFile.readToken();
 			data[i].a = inFile.readDouble();
@@ -59,7 +59,7 @@ public class chn {
 		outFile.println();
 		outFile.print("<<---------------------------------------->>\n");
 		
-		double tmp1 = Double.parseDouble(String.format("%.1f",getans[0]));
+		double tmp1 = Double.parseDouble(String.format("%.1f",getans[0])); // 실수값 소수점 첫째 자리로 
 		double tmp2 = Double.parseDouble(String.format("%.1f",getans[1]));
 		double tmp3 = Double.parseDouble(String.format("%.1f",avg));
 		
