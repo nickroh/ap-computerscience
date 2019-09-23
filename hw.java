@@ -1,4 +1,5 @@
 //input file 예시와 output file 에시는 sample 폴더 안에있음 https://github.com/nickroh/ap-computerscience/tree/master/sample
+// 중간 기말 수행 35%/35%/30% 라고 가정
 
 import chn.util.*;
 
