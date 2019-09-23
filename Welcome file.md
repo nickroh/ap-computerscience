@@ -619,7 +619,14 @@ b.a; // B꺼 실행
 ```
 
 ## 8th
-## 
+* Chp.4
+### OOP
+* Inheritance (  Code reuse )
+* Polymorphism
+* Encapsulation
+
+## 9th
+## 10th
 
 ## Null
 
@@ -634,7 +641,7 @@ b.a; // B꺼 실행
 
 file IO 사용하기
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTY5NjA2NCwxODY0OTAxOTMxLDgzMj
+eyJoaXN0b3J5IjpbLTU2ODIwNTc1OSwxODY0OTAxOTMxLDgzMj
 A2ODkwNiwtMTY4MjkwNDg5NywxNTk3MjA5MTUzLC00NzIyMzMw
 NTMsLTE3NzAxNDM0MTYsLTEyMTg2NTIyODUsNjU2MTU2NDc3LC
 0yMDE5NTY4MjUxLC0xNDA5OTIwNjUsLTE0NjcxMTg3NDQsLTE3
