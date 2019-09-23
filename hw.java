@@ -1,4 +1,4 @@
-//input file 예시와 output file 에시는 sample 폴더 안에 
+//input file 예시와 output file 에시는 sample 폴더 안에있음 https://github.com/nickroh/ap-computerscience/tree/master/sample
 
 import chn.util.*;
 
