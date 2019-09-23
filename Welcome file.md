@@ -620,6 +620,7 @@ b.a; // B꺼 실행
 
 ## 8th
 * Chp.4
+* Protected : 같은 패키지에서는 접근가능, 다른 패키지에서는 자식
 ### OOP
 * Inheritance (  Code reuse )
 * Polymorphism
@@ -630,8 +631,6 @@ b.a; // B꺼 실행
 
 ### Is-A & Has-A relationship
 [읽어보기](https://gbs1995.tistory.com/41)
-
-
 
 
 
@@ -651,11 +650,11 @@ b.a; // B꺼 실행
 
 file IO 사용하기
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxNDQ1MDY1LC01NjgyMDU3NTksMTg2ND
-kwMTkzMSw4MzIwNjg5MDYsLTE2ODI5MDQ4OTcsMTU5NzIwOTE1
-MywtNDcyMjMzMDUzLC0xNzcwMTQzNDE2LC0xMjE4NjUyMjg1LD
-Y1NjE1NjQ3NywtMjAxOTU2ODI1MSwtMTQwOTkyMDY1LC0xNDY3
-MTE4NzQ0LC0xNzU2MDIxNDk2LC0xNDkxODg4NDkxLDg3NjQ5NT
-IzLC02MzI0MTc0MjMsMTU1MTE5NzczNiwtMTgzNzUzNDU2OSwt
-MTEyNzE1NDY0OV19
+eyJoaXN0b3J5IjpbMjEwMzM0NTEzNywtNTY4MjA1NzU5LDE4Nj
+Q5MDE5MzEsODMyMDY4OTA2LC0xNjgyOTA0ODk3LDE1OTcyMDkx
+NTMsLTQ3MjIzMzA1MywtMTc3MDE0MzQxNiwtMTIxODY1MjI4NS
+w2NTYxNTY0NzcsLTIwMTk1NjgyNTEsLTE0MDk5MjA2NSwtMTQ2
+NzExODc0NCwtMTc1NjAyMTQ5NiwtMTQ5MTg4ODQ5MSw4NzY0OT
+UyMywtNjMyNDE3NDIzLDE1NTExOTc3MzYsLTE4Mzc1MzQ1Njks
+LTExMjcxNTQ2NDldfQ==
 -->
