@@ -13,7 +13,7 @@ public class chn {
 		double[] getans;
 		
 		FileInput inFile = new FileInput("C:\\Users\\roh51\\Desktop\\STUDY\\AP Computer Science\\apcs.txt"); // 저장해논 파일 경로
-		FileOutput outFile = new FileOutput("C:\\Users\\roh51\\Desktop\\STUDY\\AP Computer Science\\apcs_out.txt");
+		FileOutput outFile = new FileOutput("C:\\Users\\roh51\\Desktop\\STUDY\\AP Computer Science\\apcs_out.txt"); // 결과를 출력할 파일을 만들 위치와 파일 이름
 		int n;
 		n = inFile.readInt();
 		
