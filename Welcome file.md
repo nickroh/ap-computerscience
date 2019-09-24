@@ -647,7 +647,7 @@ b.a; // B꺼 실행
 
 [Dynamic & Static](https://fors.tistory.com/144)
 [Dynamic & Static 2 ](https://www.geeksforgeeks.org/static-vs-dynamic-binding-in-java/)
-
+[Dynamic & Static 3](https://beginnersbook.com/2013/04/java-static-dynamic-binding/)
 
 
 > 책 없는데 책 이야기만 하고 계심 Memory Allocation
@@ -672,11 +672,11 @@ b.a; // B꺼 실행
 file IO 사용하기
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MTEzNjI0OSwyMTEzNDg5NDE3LDczOD
-AwNTAzNywxMzEyNzU5MDM4LDEwODMyMjEwMDYsMzk2NTk2OTQw
-LC0xNTk2ODM3MDIzLC00NzMwMTkyODIsMTE1MDAwODc5NCwzMT
-A5ODAxNjcsMTkwMjM5Mzg1MywxNDY3MzI0MDUsLTU2ODIwNTc1
-OSwxODY0OTAxOTMxLDgzMjA2ODkwNiwtMTY4MjkwNDg5NywxNT
-k3MjA5MTUzLC00NzIyMzMwNTMsLTE3NzAxNDM0MTYsLTEyMTg2
-NTIyODVdfQ==
+eyJoaXN0b3J5IjpbLTEyMDMzOTczOTksLTk2MTEzNjI0OSwyMT
+EzNDg5NDE3LDczODAwNTAzNywxMzEyNzU5MDM4LDEwODMyMjEw
+MDYsMzk2NTk2OTQwLC0xNTk2ODM3MDIzLC00NzMwMTkyODIsMT
+E1MDAwODc5NCwzMTA5ODAxNjcsMTkwMjM5Mzg1MywxNDY3MzI0
+MDUsLTU2ODIwNTc1OSwxODY0OTAxOTMxLDgzMjA2ODkwNiwtMT
+Y4MjkwNDg5NywxNTk3MjA5MTUzLC00NzIyMzMwNTMsLTE3NzAx
+NDM0MTZdfQ==
 -->
