@@ -639,6 +639,8 @@ b.a; // B꺼 실행
 * 
 
 ### Dynamic & Static Binding
+
+
 * 특정한 identifier에 어떤게 allocation
 * 실행때마다 다를 수 있다
 
@@ -667,7 +669,7 @@ b.a; // B꺼 실행
 file IO 사용하기
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjIwOTA2MiwxMDgzMjIxMDA2LDM5Nj
+eyJoaXN0b3J5IjpbMTMxMjc1OTAzOCwxMDgzMjIxMDA2LDM5Nj
 U5Njk0MCwtMTU5NjgzNzAyMywtNDczMDE5MjgyLDExNTAwMDg3
 OTQsMzEwOTgwMTY3LDE5MDIzOTM4NTMsMTQ2NzMyNDA1LC01Nj
 gyMDU3NTksMTg2NDkwMTkzMSw4MzIwNjg5MDYsLTE2ODI5MDQ4
