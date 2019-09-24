@@ -646,6 +646,7 @@ b.a; // B꺼 실행
 * 실행때마다 다를 수 있다
 
 [Dynamic & Static](https://fors.tistory.com/144)
+[Dynamic & Static 2 ](https://www.geeksforgeeks.org/static-vs-dynamic-binding-in-java/)
 
 
 
@@ -670,11 +671,11 @@ b.a; // B꺼 실행
 file IO 사용하기
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4MDA1MDM3LDEzMTI3NTkwMzgsMTA4Mz
-IyMTAwNiwzOTY1OTY5NDAsLTE1OTY4MzcwMjMsLTQ3MzAxOTI4
-MiwxMTUwMDA4Nzk0LDMxMDk4MDE2NywxOTAyMzkzODUzLDE0Nj
-czMjQwNSwtNTY4MjA1NzU5LDE4NjQ5MDE5MzEsODMyMDY4OTA2
-LC0xNjgyOTA0ODk3LDE1OTcyMDkxNTMsLTQ3MjIzMzA1MywtMT
-c3MDE0MzQxNiwtMTIxODY1MjI4NSw2NTYxNTY0NzcsLTIwMTk1
-NjgyNTFdfQ==
+eyJoaXN0b3J5IjpbMjExMzQ4OTQxNyw3MzgwMDUwMzcsMTMxMj
+c1OTAzOCwxMDgzMjIxMDA2LDM5NjU5Njk0MCwtMTU5NjgzNzAy
+MywtNDczMDE5MjgyLDExNTAwMDg3OTQsMzEwOTgwMTY3LDE5MD
+IzOTM4NTMsMTQ2NzMyNDA1LC01NjgyMDU3NTksMTg2NDkwMTkz
+MSw4MzIwNjg5MDYsLTE2ODI5MDQ4OTcsMTU5NzIwOTE1MywtND
+cyMjMzMDUzLC0xNzcwMTQzNDE2LC0xMjE4NjUyMjg1LDY1NjE1
+NjQ3N119
 -->
