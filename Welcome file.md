@@ -640,7 +640,7 @@ b.a; // B꺼 실행
 
 ### Dynamic & Static Binding
 
-* Dynamic binding 은 다형성( Polymorphism)
+* Dynamic binding 은 다형성( Polymorphism ) 을 사용하여 메소드를 호출할때 발생, 동적바인딩은 runtime에 성격이 결정되며 Static Binding은 컴파일시에 결정되는 것이다
 
 * 특정한 identifier에 어떤게 allocation
 * 실행때마다 다를 수 있다
@@ -670,11 +670,11 @@ b.a; // B꺼 실행
 file IO 사용하기
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDczMzYyMCwxMzEyNzU5MDM4LDEwOD
-MyMjEwMDYsMzk2NTk2OTQwLC0xNTk2ODM3MDIzLC00NzMwMTky
-ODIsMTE1MDAwODc5NCwzMTA5ODAxNjcsMTkwMjM5Mzg1MywxND
-Y3MzI0MDUsLTU2ODIwNTc1OSwxODY0OTAxOTMxLDgzMjA2ODkw
-NiwtMTY4MjkwNDg5NywxNTk3MjA5MTUzLC00NzIyMzMwNTMsLT
-E3NzAxNDM0MTYsLTEyMTg2NTIyODUsNjU2MTU2NDc3LC0yMDE5
-NTY4MjUxXX0=
+eyJoaXN0b3J5IjpbNzM4MDA1MDM3LDEzMTI3NTkwMzgsMTA4Mz
+IyMTAwNiwzOTY1OTY5NDAsLTE1OTY4MzcwMjMsLTQ3MzAxOTI4
+MiwxMTUwMDA4Nzk0LDMxMDk4MDE2NywxOTAyMzkzODUzLDE0Nj
+czMjQwNSwtNTY4MjA1NzU5LDE4NjQ5MDE5MzEsODMyMDY4OTA2
+LC0xNjgyOTA0ODk3LDE1OTcyMDkxNTMsLTQ3MjIzMzA1MywtMT
+c3MDE0MzQxNiwtMTIxODY1MjI4NSw2NTYxNTY0NzcsLTIwMTk1
+NjgyNTFdfQ==
 -->
