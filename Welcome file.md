@@ -658,7 +658,8 @@ b.a; // B꺼 실행
 ## 10th
 
 ## Null
-
+### String 메모리
+[String 에 관하여](https://hoit89.tistory.com/entry/String-Stringintern-String-poolequals)
 ### CHN 패키지 설치
 * Path ( 환경변수 )
 	- java 컴파일시 현재 디렉토리에 javac가 없으면 환경변수에서 찾아본다
@@ -671,11 +672,11 @@ b.a; // B꺼 실행
 file IO 사용하기
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzQ4OTQxNyw3MzgwMDUwMzcsMTMxMj
-c1OTAzOCwxMDgzMjIxMDA2LDM5NjU5Njk0MCwtMTU5NjgzNzAy
-MywtNDczMDE5MjgyLDExNTAwMDg3OTQsMzEwOTgwMTY3LDE5MD
-IzOTM4NTMsMTQ2NzMyNDA1LC01NjgyMDU3NTksMTg2NDkwMTkz
-MSw4MzIwNjg5MDYsLTE2ODI5MDQ4OTcsMTU5NzIwOTE1MywtND
-cyMjMzMDUzLC0xNzcwMTQzNDE2LC0xMjE4NjUyMjg1LDY1NjE1
-NjQ3N119
+eyJoaXN0b3J5IjpbLTk2MTEzNjI0OSwyMTEzNDg5NDE3LDczOD
+AwNTAzNywxMzEyNzU5MDM4LDEwODMyMjEwMDYsMzk2NTk2OTQw
+LC0xNTk2ODM3MDIzLC00NzMwMTkyODIsMTE1MDAwODc5NCwzMT
+A5ODAxNjcsMTkwMjM5Mzg1MywxNDY3MzI0MDUsLTU2ODIwNTc1
+OSwxODY0OTAxOTMxLDgzMjA2ODkwNiwtMTY4MjkwNDg5NywxNT
+k3MjA5MTUzLC00NzIyMzMwNTMsLTE3NzAxNDM0MTYsLTEyMTg2
+NTIyODVdfQ==
 -->
