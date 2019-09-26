@@ -655,6 +655,8 @@ b.a; // B꺼 실행
 
 
 ## 9th
+#
+
 ## 10th
 
 ## Null
@@ -670,15 +672,22 @@ b.a; // B꺼 실행
 	* [상대 & 절대 경로](https://88240.tistory.com/122)
 
 file IO 사용하기
-
+### Java에서 foreach
+```java
+String[] numbers = {"one", "two", "three"}; 
+for(String number: numbers) 
+{
+	System.out.println(number); 
+}
+```
 ## TO DO
 * Class Casting..
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExNTk1NzA2LC05NjExMzYyNDksMjExMz
-Q4OTQxNyw3MzgwMDUwMzcsMTMxMjc1OTAzOCwxMDgzMjIxMDA2
-LDM5NjU5Njk0MCwtMTU5NjgzNzAyMywtNDczMDE5MjgyLDExNT
-AwMDg3OTQsMzEwOTgwMTY3LDE5MDIzOTM4NTMsMTQ2NzMyNDA1
-LC01NjgyMDU3NTksMTg2NDkwMTkzMSw4MzIwNjg5MDYsLTE2OD
-I5MDQ4OTcsMTU5NzIwOTE1MywtNDcyMjMzMDUzLC0xNzcwMTQz
-NDE2XX0=
+eyJoaXN0b3J5IjpbLTE1MDA4OTAzMzIsNzExNTk1NzA2LC05Nj
+ExMzYyNDksMjExMzQ4OTQxNyw3MzgwMDUwMzcsMTMxMjc1OTAz
+OCwxMDgzMjIxMDA2LDM5NjU5Njk0MCwtMTU5NjgzNzAyMywtND
+czMDE5MjgyLDExNTAwMDg3OTQsMzEwOTgwMTY3LDE5MDIzOTM4
+NTMsMTQ2NzMyNDA1LC01NjgyMDU3NTksMTg2NDkwMTkzMSw4Mz
+IwNjg5MDYsLTE2ODI5MDQ4OTcsMTU5NzIwOTE1MywtNDcyMjMz
+MDUzXX0=
 -->
