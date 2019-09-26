@@ -659,7 +659,11 @@ b.a; // B꺼 실행
 
 > 추상클래스(Abstract Class)는 인터페이스의 역할도 하면서 뭔가 구현체도 가지고 있는 자바의 돌연변이 같은 클래스이다
 
+### Interface
+
+
 ### Interface vs Abstract Class
+[Abstract Class](https://limkydev.tistory.com/188)
 
 ## 10th
 
@@ -687,11 +691,11 @@ for(String number: numbers)
 ## TO DO
 * Class Casting..
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTg3MjE1NjUsLTEwNDEwOTMzOCw3MT
-E1OTU3MDYsLTk2MTEzNjI0OSwyMTEzNDg5NDE3LDczODAwNTAz
-NywxMzEyNzU5MDM4LDEwODMyMjEwMDYsMzk2NTk2OTQwLC0xNT
-k2ODM3MDIzLC00NzMwMTkyODIsMTE1MDAwODc5NCwzMTA5ODAx
-NjcsMTkwMjM5Mzg1MywxNDY3MzI0MDUsLTU2ODIwNTc1OSwxOD
-Y0OTAxOTMxLDgzMjA2ODkwNiwtMTY4MjkwNDg5NywxNTk3MjA5
-MTUzXX0=
+eyJoaXN0b3J5IjpbLTEzMTE5MzYwMTksLTE0MTg3MjE1NjUsLT
+EwNDEwOTMzOCw3MTE1OTU3MDYsLTk2MTEzNjI0OSwyMTEzNDg5
+NDE3LDczODAwNTAzNywxMzEyNzU5MDM4LDEwODMyMjEwMDYsMz
+k2NTk2OTQwLC0xNTk2ODM3MDIzLC00NzMwMTkyODIsMTE1MDAw
+ODc5NCwzMTA5ODAxNjcsMTkwMjM5Mzg1MywxNDY3MzI0MDUsLT
+U2ODIwNTc1OSwxODY0OTAxOTMxLDgzMjA2ODkwNiwtMTY4Mjkw
+NDg5N119
 -->
