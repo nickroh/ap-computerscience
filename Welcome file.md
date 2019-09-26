@@ -655,7 +655,8 @@ b.a; // B꺼 실행
 
 
 ## 9th
-#
+### Abstract Class
+* Class
 
 ## 10th
 
@@ -683,7 +684,7 @@ for(String number: numbers)
 ## TO DO
 * Class Casting..
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA4OTAzMzIsNzExNTk1NzA2LC05Nj
+eyJoaXN0b3J5IjpbLTExNTk1NjY4NTQsNzExNTk1NzA2LC05Nj
 ExMzYyNDksMjExMzQ4OTQxNyw3MzgwMDUwMzcsMTMxMjc1OTAz
 OCwxMDgzMjIxMDA2LDM5NjU5Njk0MCwtMTU5NjgzNzAyMywtND
 czMDE5MjgyLDExNTAwMDg3OTQsMzEwOTgwMTY3LDE5MDIzOTM4
