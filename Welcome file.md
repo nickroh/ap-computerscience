@@ -571,7 +571,7 @@ writeList(c);
 
 
 ```java
-	public class A extends B implemented C,D
+	public class A extends B implements C,D
 ```
 * super class
 * Single Inheritance --> A < B ex) A = UAZ , B = car
@@ -687,11 +687,11 @@ for(String number: numbers)
 ## TO DO
 * Class Casting..
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDEwOTMzOCw3MTE1OTU3MDYsLTk2MT
-EzNjI0OSwyMTEzNDg5NDE3LDczODAwNTAzNywxMzEyNzU5MDM4
-LDEwODMyMjEwMDYsMzk2NTk2OTQwLC0xNTk2ODM3MDIzLC00Nz
-MwMTkyODIsMTE1MDAwODc5NCwzMTA5ODAxNjcsMTkwMjM5Mzg1
-MywxNDY3MzI0MDUsLTU2ODIwNTc1OSwxODY0OTAxOTMxLDgzMj
-A2ODkwNiwtMTY4MjkwNDg5NywxNTk3MjA5MTUzLC00NzIyMzMw
+eyJoaXN0b3J5IjpbLTM3Mjg1MjI5NiwtMTA0MTA5MzM4LDcxMT
+U5NTcwNiwtOTYxMTM2MjQ5LDIxMTM0ODk0MTcsNzM4MDA1MDM3
+LDEzMTI3NTkwMzgsMTA4MzIyMTAwNiwzOTY1OTY5NDAsLTE1OT
+Y4MzcwMjMsLTQ3MzAxOTI4MiwxMTUwMDA4Nzk0LDMxMDk4MDE2
+NywxOTAyMzkzODUzLDE0NjczMjQwNSwtNTY4MjA1NzU5LDE4Nj
+Q5MDE5MzEsODMyMDY4OTA2LC0xNjgyOTA0ODk3LDE1OTcyMDkx
 NTNdfQ==
 -->
