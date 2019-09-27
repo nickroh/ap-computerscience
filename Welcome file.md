@@ -668,7 +668,7 @@ b.a; // B꺼 실행
 * Only 추상 메소드
 * 모든 메서드는 public abstract 이어야 하며, 이를 생략할 수 있다.
 * 모든 멤버변수는 public static final 이어야 하며, 이를 생략할 수 있다.
-	* 이는 enum과 ㅂ
+	* 이는 enum과 비슷하다고 하는데 안쓰는게 좋다고 한다
 
 ### Interface vs Abstract Class
 [Interface & Abstract](http://alecture.blogspot.com/2011/05/abstract-class-interface.html)
@@ -743,11 +743,11 @@ for(String number: numbers)
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기
 	* CAD처럼
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyNzM4MzQ4LC0xMzQ5MTk4ODI3LC0xMj
-YxMTAxMjY2LC0xMjM4NDcyOTA1LDMwNzI5ODUwMywtMzM4MzI4
-NTU5LC0xMzExOTM2MDE5LC0xNDE4NzIxNTY1LC0xMDQxMDkzMz
-gsNzExNTk1NzA2LC05NjExMzYyNDksMjExMzQ4OTQxNyw3Mzgw
-MDUwMzcsMTMxMjc1OTAzOCwxMDgzMjIxMDA2LDM5NjU5Njk0MC
-wtMTU5NjgzNzAyMywtNDczMDE5MjgyLDExNTAwMDg3OTQsMzEw
-OTgwMTY3XX0=
+eyJoaXN0b3J5IjpbMTk1MjY2MDU3NiwtMTM0OTE5ODgyNywtMT
+I2MTEwMTI2NiwtMTIzODQ3MjkwNSwzMDcyOTg1MDMsLTMzODMy
+ODU1OSwtMTMxMTkzNjAxOSwtMTQxODcyMTU2NSwtMTA0MTA5Mz
+M4LDcxMTU5NTcwNiwtOTYxMTM2MjQ5LDIxMTM0ODk0MTcsNzM4
+MDA1MDM3LDEzMTI3NTkwMzgsMTA4MzIyMTAwNiwzOTY1OTY5ND
+AsLTE1OTY4MzcwMjMsLTQ3MzAxOTI4MiwxMTUwMDA4Nzk0LDMx
+MDk4MDE2N119
 -->
