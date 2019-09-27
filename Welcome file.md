@@ -661,13 +661,16 @@ b.a; // B꺼 실행
 
 * 하나 이상의 추상메소드( Abstract Method ) 가지고 있는것
 
+[Abstract Class](https://limkydev.tistory.com/188)
+
 ### Interface
 
 * Only 추상 메소드
 
 
 ### Interface vs Abstract Class
-[Abstract Class](https://limkydev.tistory.com/188)
+
+> 추상클래스는 "일반변수(가능)+일반메소드(가능)+추상메소드" 형태이고 인터페이스는 "상수+추상메소드"만 가능하고 일반변수나 일반메소드를 쓰는 것은 불가능하다.
 
 ## 10th
 
@@ -695,11 +698,11 @@ for(String number: numbers)
 ## TO DO
 * Class Casting..
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3Mjk4NTAzLC0zMzgzMjg1NTksLTEzMT
-E5MzYwMTksLTE0MTg3MjE1NjUsLTEwNDEwOTMzOCw3MTE1OTU3
-MDYsLTk2MTEzNjI0OSwyMTEzNDg5NDE3LDczODAwNTAzNywxMz
-EyNzU5MDM4LDEwODMyMjEwMDYsMzk2NTk2OTQwLC0xNTk2ODM3
-MDIzLC00NzMwMTkyODIsMTE1MDAwODc5NCwzMTA5ODAxNjcsMT
-kwMjM5Mzg1MywxNDY3MzI0MDUsLTU2ODIwNTc1OSwxODY0OTAx
-OTMxXX0=
+eyJoaXN0b3J5IjpbLTY4MDk0NTM2NiwzMDcyOTg1MDMsLTMzOD
+MyODU1OSwtMTMxMTkzNjAxOSwtMTQxODcyMTU2NSwtMTA0MTA5
+MzM4LDcxMTU5NTcwNiwtOTYxMTM2MjQ5LDIxMTM0ODk0MTcsNz
+M4MDA1MDM3LDEzMTI3NTkwMzgsMTA4MzIyMTAwNiwzOTY1OTY5
+NDAsLTE1OTY4MzcwMjMsLTQ3MzAxOTI4MiwxMTUwMDA4Nzk0LD
+MxMDk4MDE2NywxOTAyMzkzODUzLDE0NjczMjQwNSwtNTY4MjA1
+NzU5XX0=
 -->
