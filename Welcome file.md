@@ -670,7 +670,7 @@ b.a; // B꺼 실행
 * 모든 멤버변수는 public static final 이어야 하며, 이를 생략할 수 있다.
 
 ### Interface vs Abstract Class
-
+[Interface & Abstract](http://alecture.blogspot.com/2011/05/abstract-class-interface.html)
 > 추상클래스는 "일반변수(가능)+일반메소드(가능)+추상메소드" 형태이고 인터페이스는 "상수+추상메소드"만 가능하고 일반변수나 일반메소드를 쓰는 것은 불가능하다.
 
 ```java
@@ -739,12 +739,13 @@ for(String number: numbers)
 ## TO DO
 * Class Casting..
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDkxOTg4MjcsLTEyNjExMDEyNjYsLT
-EyMzg0NzI5MDUsMzA3Mjk4NTAzLC0zMzgzMjg1NTksLTEzMTE5
-MzYwMTksLTE0MTg3MjE1NjUsLTEwNDEwOTMzOCw3MTE1OTU3MD
-YsLTk2MTEzNjI0OSwyMTEzNDg5NDE3LDczODAwNTAzNywxMzEy
-NzU5MDM4LDEwODMyMjEwMDYsMzk2NTk2OTQwLC0xNTk2ODM3MD
-IzLC00NzMwMTkyODIsMTE1MDAwODc5NCwzMTA5ODAxNjcsMTkw
-MjM5Mzg1M119
+eyJoaXN0b3J5IjpbLTExODExNjc1NzcsLTEzNDkxOTg4MjcsLT
+EyNjExMDEyNjYsLTEyMzg0NzI5MDUsMzA3Mjk4NTAzLC0zMzgz
+Mjg1NTksLTEzMTE5MzYwMTksLTE0MTg3MjE1NjUsLTEwNDEwOT
+MzOCw3MTE1OTU3MDYsLTk2MTEzNjI0OSwyMTEzNDg5NDE3LDcz
+ODAwNTAzNywxMzEyNzU5MDM4LDEwODMyMjEwMDYsMzk2NTk2OT
+QwLC0xNTk2ODM3MDIzLC00NzMwMTkyODIsMTE1MDAwODc5NCwz
+MTA5ODAxNjddfQ==
 -->
