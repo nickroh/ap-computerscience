@@ -702,7 +702,11 @@ class Square implements Shape
 {
 	public void draw()
 	{
-		System.out.println("draw")
+		System.out.println("draw Square");
+	}
+	public void move(int y)
+	{
+		System.out.println("move square");
 	}
 }
 ```
@@ -734,11 +738,11 @@ for(String number: numbers)
 ## TO DO
 * Class Casting..
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzg0NzI5MDUsMzA3Mjk4NTAzLC0zMz
-gzMjg1NTksLTEzMTE5MzYwMTksLTE0MTg3MjE1NjUsLTEwNDEw
-OTMzOCw3MTE1OTU3MDYsLTk2MTEzNjI0OSwyMTEzNDg5NDE3LD
-czODAwNTAzNywxMzEyNzU5MDM4LDEwODMyMjEwMDYsMzk2NTk2
-OTQwLC0xNTk2ODM3MDIzLC00NzMwMTkyODIsMTE1MDAwODc5NC
-wzMTA5ODAxNjcsMTkwMjM5Mzg1MywxNDY3MzI0MDUsLTU2ODIw
-NTc1OV19
+eyJoaXN0b3J5IjpbMjIzNDY4NjAyLC0xMjM4NDcyOTA1LDMwNz
+I5ODUwMywtMzM4MzI4NTU5LC0xMzExOTM2MDE5LC0xNDE4NzIx
+NTY1LC0xMDQxMDkzMzgsNzExNTk1NzA2LC05NjExMzYyNDksMj
+ExMzQ4OTQxNyw3MzgwMDUwMzcsMTMxMjc1OTAzOCwxMDgzMjIx
+MDA2LDM5NjU5Njk0MCwtMTU5NjgzNzAyMywtNDczMDE5MjgyLD
+ExNTAwMDg3OTQsMzEwOTgwMTY3LDE5MDIzOTM4NTMsMTQ2NzMy
+NDA1XX0=
 -->
