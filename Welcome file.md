@@ -700,11 +700,11 @@ class Triangle extends Shape // abstract 클래스는 extends
 
 class Square implements Shape
 {
-	public void draw()
+	public void draw() // 전부 구현해야 하며
 	{
 		System.out.println("draw Square");
 	}
-	public void move(int y)
+	public void move(int y) // 접근제어자를 완화시켜 public으로 구현해준다
 	{
 		System.out.println("move square");
 	}
@@ -738,11 +738,11 @@ for(String number: numbers)
 ## TO DO
 * Class Casting..
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzNDY4NjAyLC0xMjM4NDcyOTA1LDMwNz
-I5ODUwMywtMzM4MzI4NTU5LC0xMzExOTM2MDE5LC0xNDE4NzIx
-NTY1LC0xMDQxMDkzMzgsNzExNTk1NzA2LC05NjExMzYyNDksMj
-ExMzQ4OTQxNyw3MzgwMDUwMzcsMTMxMjc1OTAzOCwxMDgzMjIx
-MDA2LDM5NjU5Njk0MCwtMTU5NjgzNzAyMywtNDczMDE5MjgyLD
-ExNTAwMDg3OTQsMzEwOTgwMTY3LDE5MDIzOTM4NTMsMTQ2NzMy
-NDA1XX0=
+eyJoaXN0b3J5IjpbLTEyNjExMDEyNjYsLTEyMzg0NzI5MDUsMz
+A3Mjk4NTAzLC0zMzgzMjg1NTksLTEzMTE5MzYwMTksLTE0MTg3
+MjE1NjUsLTEwNDEwOTMzOCw3MTE1OTU3MDYsLTk2MTEzNjI0OS
+wyMTEzNDg5NDE3LDczODAwNTAzNywxMzEyNzU5MDM4LDEwODMy
+MjEwMDYsMzk2NTk2OTQwLC0xNTk2ODM3MDIzLC00NzMwMTkyOD
+IsMTE1MDAwODc5NCwzMTA5ODAxNjcsMTkwMjM5Mzg1MywxNDY3
+MzI0MDVdfQ==
 -->
