@@ -688,6 +688,16 @@ interface Shape
 	abstract void move(int x);
 }
 ```
+```java
+class Triangle extends Shape // abstract 클래스는 extends
+{
+	voidd draw()
+	{
+		System.out.println("draw Triangle");
+	}
+	//cuz
+}
+```
 
 ## 10th
 
@@ -715,7 +725,7 @@ for(String number: numbers)
 ## TO DO
 * Class Casting..
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTg4MDI4MSwzMDcyOTg1MDMsLTMzOD
+eyJoaXN0b3J5IjpbLTU1NjA0MDM2OSwzMDcyOTg1MDMsLTMzOD
 MyODU1OSwtMTMxMTkzNjAxOSwtMTQxODcyMTU2NSwtMTA0MTA5
 MzM4LDcxMTU5NTcwNiwtOTYxMTM2MjQ5LDIxMTM0ODk0MTcsNz
 M4MDA1MDM3LDEzMTI3NTkwMzgsMTA4MzIyMTAwNiwzOTY1OTY5
