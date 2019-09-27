@@ -666,7 +666,8 @@ b.a; // B꺼 실행
 ### Interface
 
 * Only 추상 메소드
-
+* 모든 메서드는 public abstract 이어야 하며, 이를 생략할 수 있다.
+* 모든 멤버변수는 public static final 이어야 하며, 이를 생략할 수 있다.
 
 ### Interface vs Abstract Class
 
@@ -738,11 +739,11 @@ for(String number: numbers)
 ## TO DO
 * Class Casting..
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjExMDEyNjYsLTEyMzg0NzI5MDUsMz
-A3Mjk4NTAzLC0zMzgzMjg1NTksLTEzMTE5MzYwMTksLTE0MTg3
-MjE1NjUsLTEwNDEwOTMzOCw3MTE1OTU3MDYsLTk2MTEzNjI0OS
-wyMTEzNDg5NDE3LDczODAwNTAzNywxMzEyNzU5MDM4LDEwODMy
-MjEwMDYsMzk2NTk2OTQwLC0xNTk2ODM3MDIzLC00NzMwMTkyOD
-IsMTE1MDAwODc5NCwzMTA5ODAxNjcsMTkwMjM5Mzg1MywxNDY3
-MzI0MDVdfQ==
+eyJoaXN0b3J5IjpbNzg4ODk2MjMyLC0xMjYxMTAxMjY2LC0xMj
+M4NDcyOTA1LDMwNzI5ODUwMywtMzM4MzI4NTU5LC0xMzExOTM2
+MDE5LC0xNDE4NzIxNTY1LC0xMDQxMDkzMzgsNzExNTk1NzA2LC
+05NjExMzYyNDksMjExMzQ4OTQxNyw3MzgwMDUwMzcsMTMxMjc1
+OTAzOCwxMDgzMjIxMDA2LDM5NjU5Njk0MCwtMTU5NjgzNzAyMy
+wtNDczMDE5MjgyLDExNTAwMDg3OTQsMzEwOTgwMTY3LDE5MDIz
+OTM4NTNdfQ==
 -->
