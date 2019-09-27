@@ -672,6 +672,13 @@ b.a; // B꺼 실행
 
 > 추상클래스는 "일반변수(가능)+일반메소드(가능)+추상메소드" 형태이고 인터페이스는 "상수+추상메소드"만 가능하고 일반변수나 일반메소드를 쓰는 것은 불가능하다.
 
+```java
+abstract class Shpae
+{
+	abstract void draw(); // 추쇼ㅏㅇ
+}
+```
+
 ## 10th
 
 ## Null
@@ -698,11 +705,11 @@ for(String number: numbers)
 ## TO DO
 * Class Casting..
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDk0NTM2NiwzMDcyOTg1MDMsLTMzOD
-MyODU1OSwtMTMxMTkzNjAxOSwtMTQxODcyMTU2NSwtMTA0MTA5
-MzM4LDcxMTU5NTcwNiwtOTYxMTM2MjQ5LDIxMTM0ODk0MTcsNz
-M4MDA1MDM3LDEzMTI3NTkwMzgsMTA4MzIyMTAwNiwzOTY1OTY5
-NDAsLTE1OTY4MzcwMjMsLTQ3MzAxOTI4MiwxMTUwMDA4Nzk0LD
-MxMDk4MDE2NywxOTAyMzkzODUzLDE0NjczMjQwNSwtNTY4MjA1
-NzU5XX0=
+eyJoaXN0b3J5IjpbMTU5MzU5NjQxLDMwNzI5ODUwMywtMzM4Mz
+I4NTU5LC0xMzExOTM2MDE5LC0xNDE4NzIxNTY1LC0xMDQxMDkz
+MzgsNzExNTk1NzA2LC05NjExMzYyNDksMjExMzQ4OTQxNyw3Mz
+gwMDUwMzcsMTMxMjc1OTAzOCwxMDgzMjIxMDA2LDM5NjU5Njk0
+MCwtMTU5NjgzNzAyMywtNDczMDE5MjgyLDExNTAwMDg3OTQsMz
+EwOTgwMTY3LDE5MDIzOTM4NTMsMTQ2NzMyNDA1LC01NjgyMDU3
+NTldfQ==
 -->
