@@ -695,9 +695,18 @@ class Triangle extends Shape // abstract 클래스는 extends
 	{
 		System.out.println("draw Triangle");
 	}
-	//cuz
+	//cuz we dont need hit(),, we dont need to realize hit()
+}
+
+class Square implements Shape
+{
+	public void draw()
+	{
+		System.out.println("")
+	}
 }
 ```
+
 
 ## 10th
 
@@ -725,11 +734,11 @@ for(String number: numbers)
 ## TO DO
 * Class Casting..
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NjA0MDM2OSwzMDcyOTg1MDMsLTMzOD
-MyODU1OSwtMTMxMTkzNjAxOSwtMTQxODcyMTU2NSwtMTA0MTA5
-MzM4LDcxMTU5NTcwNiwtOTYxMTM2MjQ5LDIxMTM0ODk0MTcsNz
-M4MDA1MDM3LDEzMTI3NTkwMzgsMTA4MzIyMTAwNiwzOTY1OTY5
-NDAsLTE1OTY4MzcwMjMsLTQ3MzAxOTI4MiwxMTUwMDA4Nzk0LD
-MxMDk4MDE2NywxOTAyMzkzODUzLDE0NjczMjQwNSwtNTY4MjA1
-NzU5XX0=
+eyJoaXN0b3J5IjpbNjkyOTEwOTYzLDMwNzI5ODUwMywtMzM4Mz
+I4NTU5LC0xMzExOTM2MDE5LC0xNDE4NzIxNTY1LC0xMDQxMDkz
+MzgsNzExNTk1NzA2LC05NjExMzYyNDksMjExMzQ4OTQxNyw3Mz
+gwMDUwMzcsMTMxMjc1OTAzOCwxMDgzMjIxMDA2LDM5NjU5Njk0
+MCwtMTU5NjgzNzAyMywtNDczMDE5MjgyLDExNTAwMDg3OTQsMz
+EwOTgwMTY3LDE5MDIzOTM4NTMsMTQ2NzMyNDA1LC01NjgyMDU3
+NTldfQ==
 -->
