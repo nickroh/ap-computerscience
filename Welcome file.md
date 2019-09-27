@@ -678,8 +678,14 @@ abstract class Shpae
 	abstract void draw(); // 추상 메소드
 	void hit(int x)
 	{
-		x=
+		x=10;
 	}
+}
+
+interface Shape
+{
+	void draw(); // abstract 생략가능 
+	abstract void move(int x);
 }
 ```
 
@@ -709,7 +715,7 @@ for(String number: numbers)
 ## TO DO
 * Class Casting..
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTAzODA5NCwzMDcyOTg1MDMsLTMzOD
+eyJoaXN0b3J5IjpbMTIxOTg4MDI4MSwzMDcyOTg1MDMsLTMzOD
 MyODU1OSwtMTMxMTkzNjAxOSwtMTQxODcyMTU2NSwtMTA0MTA5
 MzM4LDcxMTU5NTcwNiwtOTYxMTM2MjQ5LDIxMTM0ODk0MTcsNz
 M4MDA1MDM3LDEzMTI3NTkwMzgsMTA4MzIyMTAwNiwzOTY1OTY5
