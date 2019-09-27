@@ -668,10 +668,12 @@ b.a; // B꺼 실행
 * Only 추상 메소드
 * 모든 메서드는 public abstract 이어야 하며, 이를 생략할 수 있다.
 * 모든 멤버변수는 public static final 이어야 하며, 이를 생략할 수 있다.
+	* 이는 enum과 ㅂ
 
 ### Interface vs Abstract Class
 [Interface & Abstract](http://alecture.blogspot.com/2011/05/abstract-class-interface.html)
 > 추상클래스는 "일반변수(가능)+일반메소드(가능)+추상메소드" 형태이고 인터페이스는 "상수+추상메소드"만 가능하고 일반변수나 일반메소드를 쓰는 것은 불가능하다.
+> 
 
 ```java
 abstract class Shpae
@@ -741,11 +743,11 @@ for(String number: numbers)
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기
 	* CAD처럼
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTg4MDg5OSwtMTM0OTE5ODgyNywtMT
-I2MTEwMTI2NiwtMTIzODQ3MjkwNSwzMDcyOTg1MDMsLTMzODMy
-ODU1OSwtMTMxMTkzNjAxOSwtMTQxODcyMTU2NSwtMTA0MTA5Mz
-M4LDcxMTU5NTcwNiwtOTYxMTM2MjQ5LDIxMTM0ODk0MTcsNzM4
-MDA1MDM3LDEzMTI3NTkwMzgsMTA4MzIyMTAwNiwzOTY1OTY5ND
-AsLTE1OTY4MzcwMjMsLTQ3MzAxOTI4MiwxMTUwMDA4Nzk0LDMx
-MDk4MDE2N119
+eyJoaXN0b3J5IjpbNTYyNzM4MzQ4LC0xMzQ5MTk4ODI3LC0xMj
+YxMTAxMjY2LC0xMjM4NDcyOTA1LDMwNzI5ODUwMywtMzM4MzI4
+NTU5LC0xMzExOTM2MDE5LC0xNDE4NzIxNTY1LC0xMDQxMDkzMz
+gsNzExNTk1NzA2LC05NjExMzYyNDksMjExMzQ4OTQxNyw3Mzgw
+MDUwMzcsMTMxMjc1OTAzOCwxMDgzMjIxMDA2LDM5NjU5Njk0MC
+wtMTU5NjgzNzAyMywtNDczMDE5MjgyLDExNTAwMDg3OTQsMzEw
+OTgwMTY3XX0=
 -->
