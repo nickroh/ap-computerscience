@@ -739,7 +739,10 @@ for(String number: numbers)
 }
 ```
 # 11th
-
+* wrapper class
+* How to make random num
+	* random class
+	* Math.random
 # 12th
 
 ## TO DO
@@ -747,11 +750,11 @@ for(String number: numbers)
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기
 	* CAD처럼
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MzQxNDkyMywxOTUyNjYwNTc2LC0xMz
-Q5MTk4ODI3LC0xMjYxMTAxMjY2LC0xMjM4NDcyOTA1LDMwNzI5
-ODUwMywtMzM4MzI4NTU5LC0xMzExOTM2MDE5LC0xNDE4NzIxNT
-Y1LC0xMDQxMDkzMzgsNzExNTk1NzA2LC05NjExMzYyNDksMjEx
-MzQ4OTQxNyw3MzgwMDUwMzcsMTMxMjc1OTAzOCwxMDgzMjIxMD
-A2LDM5NjU5Njk0MCwtMTU5NjgzNzAyMywtNDczMDE5MjgyLDEx
-NTAwMDg3OTRdfQ==
+eyJoaXN0b3J5IjpbNDExODU2MTUwLDE5NTI2NjA1NzYsLTEzND
+kxOTg4MjcsLTEyNjExMDEyNjYsLTEyMzg0NzI5MDUsMzA3Mjk4
+NTAzLC0zMzgzMjg1NTksLTEzMTE5MzYwMTksLTE0MTg3MjE1Nj
+UsLTEwNDEwOTMzOCw3MTE1OTU3MDYsLTk2MTEzNjI0OSwyMTEz
+NDg5NDE3LDczODAwNTAzNywxMzEyNzU5MDM4LDEwODMyMjEwMD
+YsMzk2NTk2OTQwLC0xNTk2ODM3MDIzLC00NzMwMTkyODIsMTE1
+MDAwODc5NF19
 -->
