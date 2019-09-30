@@ -738,17 +738,19 @@ for(String number: numbers)
 	System.out.println(number); 
 }
 ```
-# 11th
+## 11th
 * wrapper class
 * How to make random num
 	* random class
 	* Math.random
 
-## Object Class
+### Object Class
 * toString
 * equals
 * hashcode
 ### String Class
+[String 에 관하여](https://hoit89.tistory.com/entry/String-Stringintern-String-poolequals) 
+* 
 ## 12th
 
 ## TO DO
@@ -756,11 +758,11 @@ for(String number: numbers)
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기
 	* CAD처럼
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODY5MzMyNCw0MTE4NTYxNTAsMTk1Mj
-Y2MDU3NiwtMTM0OTE5ODgyNywtMTI2MTEwMTI2NiwtMTIzODQ3
-MjkwNSwzMDcyOTg1MDMsLTMzODMyODU1OSwtMTMxMTkzNjAxOS
-wtMTQxODcyMTU2NSwtMTA0MTA5MzM4LDcxMTU5NTcwNiwtOTYx
-MTM2MjQ5LDIxMTM0ODk0MTcsNzM4MDA1MDM3LDEzMTI3NTkwMz
-gsMTA4MzIyMTAwNiwzOTY1OTY5NDAsLTE1OTY4MzcwMjMsLTQ3
-MzAxOTI4Ml19
+eyJoaXN0b3J5IjpbLTEzNDgyMzk0MjIsNDExODU2MTUwLDE5NT
+I2NjA1NzYsLTEzNDkxOTg4MjcsLTEyNjExMDEyNjYsLTEyMzg0
+NzI5MDUsMzA3Mjk4NTAzLC0zMzgzMjg1NTksLTEzMTE5MzYwMT
+ksLTE0MTg3MjE1NjUsLTEwNDEwOTMzOCw3MTE1OTU3MDYsLTk2
+MTEzNjI0OSwyMTEzNDg5NDE3LDczODAwNTAzNywxMzEyNzU5MD
+M4LDEwODMyMjEwMDYsMzk2NTk2OTQwLC0xNTk2ODM3MDIzLC00
+NzMwMTkyODJdfQ==
 -->
