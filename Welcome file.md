@@ -743,18 +743,24 @@ for(String number: numbers)
 * How to make random num
 	* random class
 	* Math.random
-# 12th
+
+## Object Class
+* toString
+* equals
+* hashcode
+### String Class
+## 12th
 
 ## TO DO
 * Class Casting..
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기
 	* CAD처럼
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExODU2MTUwLDE5NTI2NjA1NzYsLTEzND
-kxOTg4MjcsLTEyNjExMDEyNjYsLTEyMzg0NzI5MDUsMzA3Mjk4
-NTAzLC0zMzgzMjg1NTksLTEzMTE5MzYwMTksLTE0MTg3MjE1Nj
-UsLTEwNDEwOTMzOCw3MTE1OTU3MDYsLTk2MTEzNjI0OSwyMTEz
-NDg5NDE3LDczODAwNTAzNywxMzEyNzU5MDM4LDEwODMyMjEwMD
-YsMzk2NTk2OTQwLC0xNTk2ODM3MDIzLC00NzMwMTkyODIsMTE1
-MDAwODc5NF19
+eyJoaXN0b3J5IjpbMTUyODY5MzMyNCw0MTE4NTYxNTAsMTk1Mj
+Y2MDU3NiwtMTM0OTE5ODgyNywtMTI2MTEwMTI2NiwtMTIzODQ3
+MjkwNSwzMDcyOTg1MDMsLTMzODMyODU1OSwtMTMxMTkzNjAxOS
+wtMTQxODcyMTU2NSwtMTA0MTA5MzM4LDcxMTU5NTcwNiwtOTYx
+MTM2MjQ5LDIxMTM0ODk0MTcsNzM4MDA1MDM3LDEzMTI3NTkwMz
+gsMTA4MzIyMTAwNiwzOTY1OTY5NDAsLTE1OTY4MzcwMjMsLTQ3
+MzAxOTI4Ml19
 -->
