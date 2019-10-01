@@ -747,12 +747,13 @@ for(String number: numbers)
 ### Object Class
 ![이런 구조이다](https://i.imgur.com/dShPCEh.png)
 * toString
-* equals: 객체가 같은지
+* equals: 객체의 내용이 같은지
 
 * hashcode : Hashing Scheme O( logN ) 보다 빠르게,,
 	- if 배열에 다 넣으면 O( 1 )이 지만 공간문제 
 	- 요걸 해결하는게 Hashing Scheme
 		- ex) 7007을 id 값 이걸 100으로 나누면 7이 남는다 // 나머지 같은 값들이 많으니까 노드끼리 연결하듯이 첫번째꺼 저장한거가 그 다음에 연결되는 값을 가르킨다
+	- 여러가지 방식이 있음
 - 이분 검색 ( binary search ) : O( logN )
 
 ### String Class
@@ -765,11 +766,11 @@ for(String number: numbers)
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기
 	* CAD처럼
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzI2MjEyMDgsMTkzNTA1NTU2NSw4ND
-Y2ODY3MTEsMTgwNDY4MzMwMCwtMTE5NzAzMzAyNiwtMTM0ODIz
-OTQyMiw0MTE4NTYxNTAsMTk1MjY2MDU3NiwtMTM0OTE5ODgyNy
-wtMTI2MTEwMTI2NiwtMTIzODQ3MjkwNSwzMDcyOTg1MDMsLTMz
-ODMyODU1OSwtMTMxMTkzNjAxOSwtMTQxODcyMTU2NSwtMTA0MT
-A5MzM4LDcxMTU5NTcwNiwtOTYxMTM2MjQ5LDIxMTM0ODk0MTcs
-NzM4MDA1MDM3XX0=
+eyJoaXN0b3J5IjpbMzAzMTczNzY2LDE5MzUwNTU1NjUsODQ2Nj
+g2NzExLDE4MDQ2ODMzMDAsLTExOTcwMzMwMjYsLTEzNDgyMzk0
+MjIsNDExODU2MTUwLDE5NTI2NjA1NzYsLTEzNDkxOTg4MjcsLT
+EyNjExMDEyNjYsLTEyMzg0NzI5MDUsMzA3Mjk4NTAzLC0zMzgz
+Mjg1NTksLTEzMTE5MzYwMTksLTE0MTg3MjE1NjUsLTEwNDEwOT
+MzOCw3MTE1OTU3MDYsLTk2MTEzNjI0OSwyMTEzNDg5NDE3LDcz
+ODAwNTAzN119
 -->
