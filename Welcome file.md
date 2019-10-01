@@ -760,7 +760,16 @@ for(String number: numbers)
 
 ### String Class
 [String 에 관하여](https://hoit89.tistory.com/entry/String-Stringintern-String-poolequals) 
+#### Methods to know
+```java
+int length()
 
+String substring(int startIndex)
+
+String substring(int startIndex, int endIndex)
+
+int indexOf(String str)
+```
 ## 12th
 
 ## TO DO
@@ -768,11 +777,11 @@ for(String number: numbers)
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기
 	* CAD처럼
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDM1NjQ2ODQsLTk0NTYyNDc2NCwzMz
-Q1ODMwMDMsMzAzMTczNzY2LDE5MzUwNTU1NjUsODQ2Njg2NzEx
-LDE4MDQ2ODMzMDAsLTExOTcwMzMwMjYsLTEzNDgyMzk0MjIsND
-ExODU2MTUwLDE5NTI2NjA1NzYsLTEzNDkxOTg4MjcsLTEyNjEx
-MDEyNjYsLTEyMzg0NzI5MDUsMzA3Mjk4NTAzLC0zMzgzMjg1NT
-ksLTEzMTE5MzYwMTksLTE0MTg3MjE1NjUsLTEwNDEwOTMzOCw3
-MTE1OTU3MDZdfQ==
+eyJoaXN0b3J5IjpbMTg5OTIwNTA4NywtMTkwMzU2NDY4NCwtOT
+Q1NjI0NzY0LDMzNDU4MzAwMywzMDMxNzM3NjYsMTkzNTA1NTU2
+NSw4NDY2ODY3MTEsMTgwNDY4MzMwMCwtMTE5NzAzMzAyNiwtMT
+M0ODIzOTQyMiw0MTE4NTYxNTAsMTk1MjY2MDU3NiwtMTM0OTE5
+ODgyNywtMTI2MTEwMTI2NiwtMTIzODQ3MjkwNSwzMDcyOTg1MD
+MsLTMzODMyODU1OSwtMTMxMTkzNjAxOSwtMTQxODcyMTU2NSwt
+MTA0MTA5MzM4XX0=
 -->
