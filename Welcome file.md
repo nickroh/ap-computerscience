@@ -752,6 +752,7 @@ for(String number: numbers)
 * hashcode : Hashing Scheme O( logN ) 보다 빠르게,,
 	- if 배열에 다 넣으면 O( 1 )이 지만 공간문제 
 	- 요걸 해결하는게 Hashing Scheme
+		- ex) 7007을 id 값 이걸 100으로 나누면 7이 남는다 // 나머지 같은 값들이 많으니까 노드끼리 연결하듯이 첫번째꺼 저장한거가 그 다음에 연결되는 값을 가르킨다
 - 이분 검색 ( binary search ) : O( logN )
 
 ### String Class
@@ -764,7 +765,7 @@ for(String number: numbers)
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기
 	* CAD처럼
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjA5NTcwNTQsMTkzNTA1NTU2NSw4ND
+eyJoaXN0b3J5IjpbLTE5MzI2MjEyMDgsMTkzNTA1NTU2NSw4ND
 Y2ODY3MTEsMTgwNDY4MzMwMCwtMTE5NzAzMzAyNiwtMTM0ODIz
 OTQyMiw0MTE4NTYxNTAsMTk1MjY2MDU3NiwtMTM0OTE5ODgyNy
 wtMTI2MTEwMTI2NiwtMTIzODQ3MjkwNSwzMDcyOTg1MDMsLTMz
