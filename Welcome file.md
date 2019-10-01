@@ -750,7 +750,7 @@ for(String number: numbers)
 * equals: 객체가 같은지
 * hashcode : 객체가 같ㅇ
 
-- 이분 검색 ( binary search )
+- 이분 검색 ( binary search ) : O( logN )
 
 ### String Class
 [String 에 관하여](https://hoit89.tistory.com/entry/String-Stringintern-String-poolequals) 
@@ -762,11 +762,11 @@ for(String number: numbers)
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기
 	* CAD처럼
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3NTQ4MTUzLDg0NjY4NjcxMSwxODA0Nj
-gzMzAwLC0xMTk3MDMzMDI2LC0xMzQ4MjM5NDIyLDQxMTg1NjE1
-MCwxOTUyNjYwNTc2LC0xMzQ5MTk4ODI3LC0xMjYxMTAxMjY2LC
-0xMjM4NDcyOTA1LDMwNzI5ODUwMywtMzM4MzI4NTU5LC0xMzEx
-OTM2MDE5LC0xNDE4NzIxNTY1LC0xMDQxMDkzMzgsNzExNTk1Nz
-A2LC05NjExMzYyNDksMjExMzQ4OTQxNyw3MzgwMDUwMzcsMTMx
-Mjc1OTAzOF19
+eyJoaXN0b3J5IjpbMTkzNTA1NTU2NSw4NDY2ODY3MTEsMTgwND
+Y4MzMwMCwtMTE5NzAzMzAyNiwtMTM0ODIzOTQyMiw0MTE4NTYx
+NTAsMTk1MjY2MDU3NiwtMTM0OTE5ODgyNywtMTI2MTEwMTI2Ni
+wtMTIzODQ3MjkwNSwzMDcyOTg1MDMsLTMzODMyODU1OSwtMTMx
+MTkzNjAxOSwtMTQxODcyMTU2NSwtMTA0MTA5MzM4LDcxMTU5NT
+cwNiwtOTYxMTM2MjQ5LDIxMTM0ODk0MTcsNzM4MDA1MDM3LDEz
+MTI3NTkwMzhdfQ==
 -->
