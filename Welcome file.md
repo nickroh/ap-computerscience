@@ -747,7 +747,9 @@ for(String number: numbers)
 ### Object Class
 ![이런 구조이다](https://i.imgur.com/dShPCEh.png)
 * toString
-* equals(): 객체의 
+
+* equals(): 객체의 contents 를 비교한다 // == 연산자는 주소값을 비교한다
+ 
 * hashCode : Hashing Scheme O( logN ) 보다 빠르게,,
 	- if 배열에 다 넣으면 O( 1 )이 지만 공간문제 
 	- 요걸 해결하는게 Hashing Scheme
@@ -766,11 +768,11 @@ for(String number: numbers)
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기
 	* CAD처럼
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTYyNDc2NCwzMzQ1ODMwMDMsMzAzMT
-czNzY2LDE5MzUwNTU1NjUsODQ2Njg2NzExLDE4MDQ2ODMzMDAs
-LTExOTcwMzMwMjYsLTEzNDgyMzk0MjIsNDExODU2MTUwLDE5NT
-I2NjA1NzYsLTEzNDkxOTg4MjcsLTEyNjExMDEyNjYsLTEyMzg0
-NzI5MDUsMzA3Mjk4NTAzLC0zMzgzMjg1NTksLTEzMTE5MzYwMT
-ksLTE0MTg3MjE1NjUsLTEwNDEwOTMzOCw3MTE1OTU3MDYsLTk2
-MTEzNjI0OV19
+eyJoaXN0b3J5IjpbLTE5MDM1NjQ2ODQsLTk0NTYyNDc2NCwzMz
+Q1ODMwMDMsMzAzMTczNzY2LDE5MzUwNTU1NjUsODQ2Njg2NzEx
+LDE4MDQ2ODMzMDAsLTExOTcwMzMwMjYsLTEzNDgyMzk0MjIsND
+ExODU2MTUwLDE5NTI2NjA1NzYsLTEzNDkxOTg4MjcsLTEyNjEx
+MDEyNjYsLTEyMzg0NzI5MDUsMzA3Mjk4NTAzLC0zMzgzMjg1NT
+ksLTEzMTE5MzYwMTksLTE0MTg3MjE1NjUsLTEwNDEwOTMzOCw3
+MTE1OTU3MDZdfQ==
 -->
