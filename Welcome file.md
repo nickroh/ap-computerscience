@@ -748,7 +748,7 @@ for(String number: numbers)
 ![이런 구조이다](https://i.imgur.com/dShPCEh.png)
 * toString
 * equals: 객체가 같은지
-* hashcode : Hashing Scheme O( logN 
+* hashcode : Hashing Scheme O( logN ) 보다 빠르게,,
 
 - 이분 검색 ( binary search ) : O( logN )
 
@@ -762,11 +762,11 @@ for(String number: numbers)
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기
 	* CAD처럼
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTc0MjA5MCwxOTM1MDU1NTY1LDg0Nj
-Y4NjcxMSwxODA0NjgzMzAwLC0xMTk3MDMzMDI2LC0xMzQ4MjM5
-NDIyLDQxMTg1NjE1MCwxOTUyNjYwNTc2LC0xMzQ5MTk4ODI3LC
-0xMjYxMTAxMjY2LC0xMjM4NDcyOTA1LDMwNzI5ODUwMywtMzM4
-MzI4NTU5LC0xMzExOTM2MDE5LC0xNDE4NzIxNTY1LC0xMDQxMD
-kzMzgsNzExNTk1NzA2LC05NjExMzYyNDksMjExMzQ4OTQxNyw3
-MzgwMDUwMzddfQ==
+eyJoaXN0b3J5IjpbLTEzMTMwMjExMDksMTkzNTA1NTU2NSw4ND
+Y2ODY3MTEsMTgwNDY4MzMwMCwtMTE5NzAzMzAyNiwtMTM0ODIz
+OTQyMiw0MTE4NTYxNTAsMTk1MjY2MDU3NiwtMTM0OTE5ODgyNy
+wtMTI2MTEwMTI2NiwtMTIzODQ3MjkwNSwzMDcyOTg1MDMsLTMz
+ODMyODU1OSwtMTMxMTkzNjAxOSwtMTQxODcyMTU2NSwtMTA0MT
+A5MzM4LDcxMTU5NTcwNiwtOTYxMTM2MjQ5LDIxMTM0ODk0MTcs
+NzM4MDA1MDM3XX0=
 -->
