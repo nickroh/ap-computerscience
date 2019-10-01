@@ -754,6 +754,7 @@ for(String number: numbers)
 	- 요걸 해결하는게 Hashing Scheme
 		- ex) 7007을 id 값 이걸 100으로 나누면 7이 남는다 // 나머지 같은 값들이 많으니까 노드끼리 연결하듯이 첫번째꺼 저장한거가 그 다음에 연결되는 값을 가르킨다
 	- 여러가지 방식이 있음
+	- 결론 O( 1 )에 가까운 방법으로 한번에 데이터에 access하기 위해서 만들어졌다!
 - 이분 검색 ( binary search ) : O( logN )
 
 ### String Class
@@ -766,11 +767,11 @@ for(String number: numbers)
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기
 	* CAD처럼
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzMTczNzY2LDE5MzUwNTU1NjUsODQ2Nj
-g2NzExLDE4MDQ2ODMzMDAsLTExOTcwMzMwMjYsLTEzNDgyMzk0
-MjIsNDExODU2MTUwLDE5NTI2NjA1NzYsLTEzNDkxOTg4MjcsLT
-EyNjExMDEyNjYsLTEyMzg0NzI5MDUsMzA3Mjk4NTAzLC0zMzgz
-Mjg1NTksLTEzMTE5MzYwMTksLTE0MTg3MjE1NjUsLTEwNDEwOT
-MzOCw3MTE1OTU3MDYsLTk2MTEzNjI0OSwyMTEzNDg5NDE3LDcz
-ODAwNTAzN119
+eyJoaXN0b3J5IjpbMzM0NTgzMDAzLDMwMzE3Mzc2NiwxOTM1MD
+U1NTY1LDg0NjY4NjcxMSwxODA0NjgzMzAwLC0xMTk3MDMzMDI2
+LC0xMzQ4MjM5NDIyLDQxMTg1NjE1MCwxOTUyNjYwNTc2LC0xMz
+Q5MTk4ODI3LC0xMjYxMTAxMjY2LC0xMjM4NDcyOTA1LDMwNzI5
+ODUwMywtMzM4MzI4NTU5LC0xMzExOTM2MDE5LC0xNDE4NzIxNT
+Y1LC0xMDQxMDkzMzgsNzExNTk1NzA2LC05NjExMzYyNDksMjEx
+MzQ4OTQxN119
 -->
