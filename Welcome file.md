@@ -774,13 +774,14 @@ int indexOf(String str)
 ### Wrapper Class
 primitive data type을 레퍼런싱 하려고 만든것
 
+* AutoBoxing & Unboxing
 
 ## TO DO
 * Class Casting..
-* H/W 2D circle & square --> sphere & cube 손으로 그려오기
+* H/W 2D circle & square --> sphere & cube 손으로 그려오기 -- done 
 	* CAD처럼
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTI3Njg4MiwxODk5MjA1MDg3LC0xOT
+eyJoaXN0b3J5IjpbMjAyNDE4Mzk2OCwxODk5MjA1MDg3LC0xOT
 AzNTY0Njg0LC05NDU2MjQ3NjQsMzM0NTgzMDAzLDMwMzE3Mzc2
 NiwxOTM1MDU1NTY1LDg0NjY4NjcxMSwxODA0NjgzMzAwLC0xMT
 k3MDMzMDI2LC0xMzQ4MjM5NDIyLDQxMTg1NjE1MCwxOTUyNjYw
