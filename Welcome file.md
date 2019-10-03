@@ -773,19 +773,21 @@ int indexOf(String str)
 ## 12th
 ### Wrapper Class
 primitive data type을 레퍼런싱 하려고 만든것
+![](https://t1.daumcdn.net/cfile/tistory/226EB83E5299533F08)
+* AutoBoxing & AutoUnboxing
 
-* AutoBoxing & Unboxing
+
 
 ## TO DO
 * Class Casting..
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기 -- done 
 	* CAD처럼
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNDE4Mzk2OCwxODk5MjA1MDg3LC0xOT
-AzNTY0Njg0LC05NDU2MjQ3NjQsMzM0NTgzMDAzLDMwMzE3Mzc2
-NiwxOTM1MDU1NTY1LDg0NjY4NjcxMSwxODA0NjgzMzAwLC0xMT
-k3MDMzMDI2LC0xMzQ4MjM5NDIyLDQxMTg1NjE1MCwxOTUyNjYw
-NTc2LC0xMzQ5MTk4ODI3LC0xMjYxMTAxMjY2LC0xMjM4NDcyOT
-A1LDMwNzI5ODUwMywtMzM4MzI4NTU5LC0xMzExOTM2MDE5LC0x
-NDE4NzIxNTY1XX0=
+eyJoaXN0b3J5IjpbNzA3MzE5NzE3LDE4OTkyMDUwODcsLTE5MD
+M1NjQ2ODQsLTk0NTYyNDc2NCwzMzQ1ODMwMDMsMzAzMTczNzY2
+LDE5MzUwNTU1NjUsODQ2Njg2NzExLDE4MDQ2ODMzMDAsLTExOT
+cwMzMwMjYsLTEzNDgyMzk0MjIsNDExODU2MTUwLDE5NTI2NjA1
+NzYsLTEzNDkxOTg4MjcsLTEyNjExMDEyNjYsLTEyMzg0NzI5MD
+UsMzA3Mjk4NTAzLC0zMzgzMjg1NTksLTEzMTE5MzYwMTksLTE0
+MTg3MjE1NjVdfQ==
 -->
