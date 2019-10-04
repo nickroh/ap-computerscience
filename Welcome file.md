@@ -784,16 +784,22 @@ primitive data type을 레퍼런싱 하려고 만든것
 * Monte-Carlo Simulation
 	* 파이 값
 	* 여러가지에 활용 (수학적으로 -- 미적분)
+### Software Development
+* Problem Definition
+* Solution Planning - Pseudocode or Flowchart
+* Coding
+* Testing
+* Documentation
 ## TO DO
 * Class Casting..
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기 -- done 
 	* CAD처럼
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5MTkwODI5LC01NTQ0ODg4NCwtMTU0Mz
-EwMTI5Niw3ODExNzE5MCwxNjA2NzcyMjg2LDcwNzMxOTcxNywx
-ODk5MjA1MDg3LC0xOTAzNTY0Njg0LC05NDU2MjQ3NjQsMzM0NT
-gzMDAzLDMwMzE3Mzc2NiwxOTM1MDU1NTY1LDg0NjY4NjcxMSwx
-ODA0NjgzMzAwLC0xMTk3MDMzMDI2LC0xMzQ4MjM5NDIyLDQxMT
-g1NjE1MCwxOTUyNjYwNTc2LC0xMzQ5MTk4ODI3LC0xMjYxMTAx
-MjY2XX0=
+eyJoaXN0b3J5IjpbODIwNDI5Njk5LDY2OTE5MDgyOSwtNTU0ND
+g4ODQsLTE1NDMxMDEyOTYsNzgxMTcxOTAsMTYwNjc3MjI4Niw3
+MDczMTk3MTcsMTg5OTIwNTA4NywtMTkwMzU2NDY4NCwtOTQ1Nj
+I0NzY0LDMzNDU4MzAwMywzMDMxNzM3NjYsMTkzNTA1NTU2NSw4
+NDY2ODY3MTEsMTgwNDY4MzMwMCwtMTE5NzAzMzAyNiwtMTM0OD
+IzOTQyMiw0MTE4NTYxNTAsMTk1MjY2MDU3NiwtMTM0OTE5ODgy
+N119
 -->
