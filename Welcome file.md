@@ -777,20 +777,23 @@ primitive data type을 레퍼런싱 하려고 만든것
 * AutoBoxing & AutoUnboxing
 
 [wrapper class 가 제공하는 메소드들](https://m.blog.naver.com/itinstructor/100202885690)
-* Monte-Carlo Simulation
+
 ### Random 
 난수생성 --> seed
 [난수생성](https://namu.wiki/w/%EB%82%9C%EC%88%98%EC%83%9D%EC%84%B1)
+* Monte-Carlo Simulation
+	* 파이 값
+	
 ## TO DO
 * Class Casting..
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기 -- done 
 	* CAD처럼
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxMTcxOTAsMTYwNjc3MjI4Niw3MDczMT
-k3MTcsMTg5OTIwNTA4NywtMTkwMzU2NDY4NCwtOTQ1NjI0NzY0
-LDMzNDU4MzAwMywzMDMxNzM3NjYsMTkzNTA1NTU2NSw4NDY2OD
-Y3MTEsMTgwNDY4MzMwMCwtMTE5NzAzMzAyNiwtMTM0ODIzOTQy
-Miw0MTE4NTYxNTAsMTk1MjY2MDU3NiwtMTM0OTE5ODgyNywtMT
-I2MTEwMTI2NiwtMTIzODQ3MjkwNSwzMDcyOTg1MDMsLTMzODMy
-ODU1OV19
+eyJoaXN0b3J5IjpbLTE1NDMxMDEyOTYsNzgxMTcxOTAsMTYwNj
+c3MjI4Niw3MDczMTk3MTcsMTg5OTIwNTA4NywtMTkwMzU2NDY4
+NCwtOTQ1NjI0NzY0LDMzNDU4MzAwMywzMDMxNzM3NjYsMTkzNT
+A1NTU2NSw4NDY2ODY3MTEsMTgwNDY4MzMwMCwtMTE5NzAzMzAy
+NiwtMTM0ODIzOTQyMiw0MTE4NTYxNTAsMTk1MjY2MDU3NiwtMT
+M0OTE5ODgyNywtMTI2MTEwMTI2NiwtMTIzODQ3MjkwNSwzMDcy
+OTg1MDNdfQ==
 -->
