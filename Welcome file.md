@@ -786,20 +786,20 @@ primitive data type을 레퍼런싱 하려고 만든것
 	* 여러가지에 활용 (수학적으로 -- 미적분)
 ### Software Development
 * Problem Definition
-* Solution Planning - Pseudocode or Flowchart
+* Solution Planning - Pseudocode or Flowchart 
 * Coding
-* Testing
-* Documentation
+* Testing - Compile time err , Runtime err(Bug)
+* Documentation - Comment
 ## TO DO
 * Class Casting..
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기 -- done 
 	* CAD처럼
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwNDI5Njk5LDY2OTE5MDgyOSwtNTU0ND
-g4ODQsLTE1NDMxMDEyOTYsNzgxMTcxOTAsMTYwNjc3MjI4Niw3
-MDczMTk3MTcsMTg5OTIwNTA4NywtMTkwMzU2NDY4NCwtOTQ1Nj
-I0NzY0LDMzNDU4MzAwMywzMDMxNzM3NjYsMTkzNTA1NTU2NSw4
-NDY2ODY3MTEsMTgwNDY4MzMwMCwtMTE5NzAzMzAyNiwtMTM0OD
-IzOTQyMiw0MTE4NTYxNTAsMTk1MjY2MDU3NiwtMTM0OTE5ODgy
-N119
+eyJoaXN0b3J5IjpbLTgwMjQwMTg0NSw2NjkxOTA4MjksLTU1ND
+Q4ODg0LC0xNTQzMTAxMjk2LDc4MTE3MTkwLDE2MDY3NzIyODYs
+NzA3MzE5NzE3LDE4OTkyMDUwODcsLTE5MDM1NjQ2ODQsLTk0NT
+YyNDc2NCwzMzQ1ODMwMDMsMzAzMTczNzY2LDE5MzUwNTU1NjUs
+ODQ2Njg2NzExLDE4MDQ2ODMzMDAsLTExOTcwMzMwMjYsLTEzND
+gyMzk0MjIsNDExODU2MTUwLDE5NTI2NjA1NzYsLTEzNDkxOTg4
+MjddfQ==
 -->
