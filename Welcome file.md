@@ -790,12 +790,16 @@ primitive data type을 레퍼런싱 하려고 만든것
 * Coding
 * Testing - Compile time err , Runtime err(Bug) --> Exception
 * Documentation - Comment
+
+### Array 
+배열배열
+
 ## TO DO
 * Class Casting..
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기 -- done 
 	* CAD처럼
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTIwOTIwLDY2OTE5MDgyOSwtNTU0ND
+eyJoaXN0b3J5IjpbNTEzODY3MDEyLDY2OTE5MDgyOSwtNTU0ND
 g4ODQsLTE1NDMxMDEyOTYsNzgxMTcxOTAsMTYwNjc3MjI4Niw3
 MDczMTk3MTcsMTg5OTIwNTA4NywtMTkwMzU2NDY4NCwtOTQ1Nj
 I0NzY0LDMzNDU4MzAwMywzMDMxNzM3NjYsMTkzNTA1NTU2NSw4
