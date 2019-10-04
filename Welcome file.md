@@ -783,17 +783,17 @@ primitive data type을 레퍼런싱 하려고 만든것
 [난수생성](https://namu.wiki/w/%EB%82%9C%EC%88%98%EC%83%9D%EC%84%B1)
 * Monte-Carlo Simulation
 	* 파이 값
-	
+	* 여러가지에 활용 (수학적)
 ## TO DO
 * Class Casting..
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기 -- done 
 	* CAD처럼
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDMxMDEyOTYsNzgxMTcxOTAsMTYwNj
-c3MjI4Niw3MDczMTk3MTcsMTg5OTIwNTA4NywtMTkwMzU2NDY4
-NCwtOTQ1NjI0NzY0LDMzNDU4MzAwMywzMDMxNzM3NjYsMTkzNT
-A1NTU2NSw4NDY2ODY3MTEsMTgwNDY4MzMwMCwtMTE5NzAzMzAy
-NiwtMTM0ODIzOTQyMiw0MTE4NTYxNTAsMTk1MjY2MDU3NiwtMT
-M0OTE5ODgyNywtMTI2MTEwMTI2NiwtMTIzODQ3MjkwNSwzMDcy
-OTg1MDNdfQ==
+eyJoaXN0b3J5IjpbMTc5MjE3OTU2NCwtMTU0MzEwMTI5Niw3OD
+ExNzE5MCwxNjA2NzcyMjg2LDcwNzMxOTcxNywxODk5MjA1MDg3
+LC0xOTAzNTY0Njg0LC05NDU2MjQ3NjQsMzM0NTgzMDAzLDMwMz
+E3Mzc2NiwxOTM1MDU1NTY1LDg0NjY4NjcxMSwxODA0NjgzMzAw
+LC0xMTk3MDMzMDI2LC0xMzQ4MjM5NDIyLDQxMTg1NjE1MCwxOT
+UyNjYwNTc2LC0xMzQ5MTk4ODI3LC0xMjYxMTAxMjY2LC0xMjM4
+NDcyOTA1XX0=
 -->
