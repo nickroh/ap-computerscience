@@ -776,18 +776,18 @@ primitive data type을 레퍼런싱 하려고 만든것
 ![](https://t1.daumcdn.net/cfile/tistory/226EB83E5299533F08)
 * AutoBoxing & AutoUnboxing
 
-
+[wrapper class 가 제공하는 메소드들](https://m.blog.naver.com/itinstructor/100202885690)
 
 ## TO DO
 * Class Casting..
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기 -- done 
 	* CAD처럼
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3MzE5NzE3LDE4OTkyMDUwODcsLTE5MD
-M1NjQ2ODQsLTk0NTYyNDc2NCwzMzQ1ODMwMDMsMzAzMTczNzY2
-LDE5MzUwNTU1NjUsODQ2Njg2NzExLDE4MDQ2ODMzMDAsLTExOT
-cwMzMwMjYsLTEzNDgyMzk0MjIsNDExODU2MTUwLDE5NTI2NjA1
-NzYsLTEzNDkxOTg4MjcsLTEyNjExMDEyNjYsLTEyMzg0NzI5MD
-UsMzA3Mjk4NTAzLC0zMzgzMjg1NTksLTEzMTE5MzYwMTksLTE0
-MTg3MjE1NjVdfQ==
+eyJoaXN0b3J5IjpbMTYwNjc3MjI4Niw3MDczMTk3MTcsMTg5OT
+IwNTA4NywtMTkwMzU2NDY4NCwtOTQ1NjI0NzY0LDMzNDU4MzAw
+MywzMDMxNzM3NjYsMTkzNTA1NTU2NSw4NDY2ODY3MTEsMTgwND
+Y4MzMwMCwtMTE5NzAzMzAyNiwtMTM0ODIzOTQyMiw0MTE4NTYx
+NTAsMTk1MjY2MDU3NiwtMTM0OTE5ODgyNywtMTI2MTEwMTI2Ni
+wtMTIzODQ3MjkwNSwzMDcyOTg1MDMsLTMzODMyODU1OSwtMTMx
+MTkzNjAxOV19
 -->
