@@ -1,6 +1,6 @@
 import java.util.*;
 
-class matrix{
+class matrix{ // import 하기 귀찮음 import 할사람은 구분해서 하셈
 	int col;
 	int raw;
 
