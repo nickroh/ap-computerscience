@@ -84,9 +84,9 @@ public class Matrix
 		{
 			for(int colTemp = 0; colTemp < result.colNum(); colTemp++)
 			{
-				for(int i = 0; i < result.rowNum(); i++)
+				for(int i = 0; i < result.colNum(); i++)
 				{
-					result.changeElement(rowTemp,colTemp,result.element(rowTemp,colTemp) + element(rowTemp,i) * mat.element(i,colTemp));
+					result.changeElement(rowTemp,colTemp,result.element(rowTemp,colTemp) + element(i,colTemp) * mat.element(rowTemp,i));
 					//System.out.println("row "+rowTemp+" col "+colTemp+" set complete");
 				}
 			}
@@ -108,7 +108,7 @@ public class Matrix
 		for(int i = 0; i < row; i++) {
 				System.out.print(getFormattedNumber(element[i][k], 3)+"\t");
 			}
-			System.out.println();
+			System.out.println("");
 			}
 		}
 
