@@ -795,7 +795,8 @@ primitive data type을 레퍼런싱 하려고 만든것
 배열배열
 
 ## 13th (중간 이후)
-### ArrayList
+### ArrayList - InCollectionFramework
+배열의 크기가 변할때 기존의 배열을 쓰는것은 불편
 
 ## TO DO
 * Class Casting..
@@ -806,7 +807,7 @@ primitive data type을 레퍼런싱 하려고 만든것
 	* 구현할때 클래스안에 들어가야할 attribute & method
 	* 매트릭스를 클래스에 넣는다 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzk5MTg3MCwtNDMwMDAzNTg0LDQ2Mz
+eyJoaXN0b3J5IjpbLTM3ODU5MzgyNSwtNDMwMDAzNTg0LDQ2Mz
 IzMjUyLC0yMTMxNjUwMjk4LC0xODA2MTk0MDMzLC0xNzg2NDc0
 NDIsNTEzODY3MDEyLDY2OTE5MDgyOSwtNTU0NDg4ODQsLTE1ND
 MxMDEyOTYsNzgxMTcxOTAsMTYwNjc3MjI4Niw3MDczMTk3MTcs
