@@ -794,6 +794,9 @@ primitive data type을 레퍼런싱 하려고 만든것
 ### Array 
 배열배열
 
+## 13th (중간 이후)
+### ArrayList
+
 ## TO DO
 * Class Casting..
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기 -- done 
@@ -803,11 +806,11 @@ primitive data type을 레퍼런싱 하려고 만든것
 	* 구현할때 클래스안에 들어가야할 attribute & method
 	* 매트릭스를 클래스에 넣는다 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDAwMzU4NCw0NjMyMzI1MiwtMjEzMT
-Y1MDI5OCwtMTgwNjE5NDAzMywtMTc4NjQ3NDQyLDUxMzg2NzAx
-Miw2NjkxOTA4MjksLTU1NDQ4ODg0LC0xNTQzMTAxMjk2LDc4MT
-E3MTkwLDE2MDY3NzIyODYsNzA3MzE5NzE3LDE4OTkyMDUwODcs
-LTE5MDM1NjQ2ODQsLTk0NTYyNDc2NCwzMzQ1ODMwMDMsMzAzMT
-czNzY2LDE5MzUwNTU1NjUsODQ2Njg2NzExLDE4MDQ2ODMzMDBd
+eyJoaXN0b3J5IjpbLTcyNzk5MTg3MCwtNDMwMDAzNTg0LDQ2Mz
+IzMjUyLC0yMTMxNjUwMjk4LC0xODA2MTk0MDMzLC0xNzg2NDc0
+NDIsNTEzODY3MDEyLDY2OTE5MDgyOSwtNTU0NDg4ODQsLTE1ND
+MxMDEyOTYsNzgxMTcxOTAsMTYwNjc3MjI4Niw3MDczMTk3MTcs
+MTg5OTIwNTA4NywtMTkwMzU2NDY4NCwtOTQ1NjI0NzY0LDMzND
+U4MzAwMywzMDMxNzM3NjYsMTkzNTA1NTU2NSw4NDY2ODY3MTFd
 fQ==
 -->
