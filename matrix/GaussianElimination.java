@@ -37,6 +37,20 @@ public class GaussianElimination{
 						matrixA.changeElement(i,k,c);
 					}
 				}
+				matrixA.printMatrix();
+			}
+			System.out.print("Matrix C is already initialized, Do you want to make your own matrix? Y or N : ");
+			String input3 = sio.next();
+			char random3 = input3.charAt(0);
+			if(random3=='y' || random3=='Y')
+			{
+				for(int i = 0; i<varNum; i++) {
+					for(int k = 0; k<varNum; k++) {
+						System.out.print("Matrix C: What is the value of row "+i+" and column "+k+"? : ");
+						int c = sio.nextInt();
+						matrixC.changeElement(i,k,c);
+					}
+				}
 			}
 			System.out.print("Want to initialize identity? Y or N : ");
 			String input2 = sio.next();
@@ -52,20 +66,6 @@ public class GaussianElimination{
 				}
 			}
 			else setAsIdentity(matrixI);
-			System.out.print("Matrix C is already initialized, Do you want to make your own matrix? Y or N : ");
-			String input3 = sio.next();
-			char random3 = input3.charAt(0);
-			if(random3=='y' || random3=='Y')
-			{
-				for(int i = 0; i<varNum; i++) {
-					for(int k = 0; k<varNum; k++) {
-						System.out.print("Matrix C: What is the value of row "+i+" and column "+k+"? : ");
-						int c = sio.nextInt();
-						matrixC.changeElement(i,k,c);
-					}
-				}
-			}
-			
 			//Can't use gaussian subtraction if the diagonal element is 0?
 			for(int col = 0; col < varNum; col++)
 			{
@@ -127,7 +127,7 @@ public class GaussianElimination{
 			makeItIdentity(matrixA_copy, matrixI_copy, varNum);
 
 			System.out.println("check point");
-			Matrix matrix_x= matrixI_copy.multiply(matrixC);
+			Matrix matrix_x = matrixI_copy.multiply(matrixC);
 
 			//INVERSE PRINTING
 			System.out.println("***** After converting [A] to [A]-1 form *****\n");
@@ -141,7 +141,9 @@ public class GaussianElimination{
 			matrix_x.printMatrix();
 			//Checking Errors and Calculation Time
 			System.out.println("\nError in [A]-1: "+checkAccuracy(matrixA, matrixI_copy));
+			System.out.println("\nError in result: "+checkAccuracy_result(matrixA,matrix_x,matrixC));
 			long end = System.currentTimeMillis();
+			//System.out.println("\nError in [A] * x: "+ checkAccuracy_result(matrixA, matrix_x, matrixC));
 			System.out.println("Calculation time = "+((end-start)/1000.0)+"s\n");
 			enter();
 			enter();
@@ -149,6 +151,8 @@ public class GaussianElimination{
 			System.out.println("Again? Y or N");
 			String input4 = sio.next();
 			char random4 = input4.charAt(0);
+
+			
 			if(random4 =='Y'||random4 == 'y'){
 				newScreen();
 			}
@@ -168,10 +172,15 @@ public class GaussianElimination{
 			System.out.println(e.getMessage());    
 			}
 	}
+
 	public static void makeItIdentity(Matrix mat1, Matrix mat2, int varNum){
 		for(int col = 0; col<varNum; col++) {
 			mat2.multiplyRow(col,1/mat1.element(col,col));
 			mat1.multiplyRow(col,1/mat1.element(col,col));
+			// mat1.printMatrix();
+			// enter();
+			// mat2.printMatrix();
+			// System.out.println("======");
 			for(int row = 0; row<varNum; row++) {
 				if(col!=row){
 				double factor = mat1.element(row,col);
@@ -179,8 +188,14 @@ public class GaussianElimination{
 				mat1.subtractRow(row,col,factor);
 				}
 			}
+			// mat1.printMatrix();
+			// enter();
+			// mat2.printMatrix();
+			// System.out.println("======");
 		}
 	}
+
+
 
 
 	public static void setAsIdentity(Matrix a){
@@ -207,18 +222,25 @@ public class GaussianElimination{
 		setAsIdentity(identity);
 		Matrix crossed = a.multiply(inverse);
 		System.out.println("\nCheck if A * [A]-1 returns I: ");
-		crossed.printMatrix();
+		//crossed.printMatrix();
 		double error = 0;
 		for(int row = 0; row < crossed.rowNum(); row++) {
 			for(int col = 0; col < crossed.colNum(); col++) {
-				error += crossed.element(row,col)-identity.element(row,col);
+				error += Math.abs(crossed.element(row,col)-identity.element(row,col));
 			}
 		}
 		return error/(a.rowNum()*a.colNum());
 	}
 
-	public static double checkAccuracy_result(Matrix a, Matrix b){
+	public static double checkAccuracy_result(Matrix a, Matrix b, Matrix c){
 		double num=0;
-		return num;
+
+		Matrix result = a.multiply(b);
+		for(int row=0; row<result.rowNum(); row++){
+			for(int col = 0; col< result.colNum(); col++){
+				num += Math.abs(result.element(row,col)-c.element(row,col));
+			}
+		}
+		return num/(result.rowNum()*result.colNum());
 	}
 }
