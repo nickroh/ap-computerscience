@@ -802,7 +802,7 @@ primitive data type을 레퍼런싱 하려고 만든것
 
 ### List Interface
 [List Interface](https://movefast.tistory.com/76)
-[https://www.geeksforgeeks.org/list-interface-java-examples/](https://www.geeksforgeeks.org/list-interface-java-examples/)
+[list-interface](https://www.geeksforgeeks.org/list-interface-java-examples/)
 
 ## TO DO
 * Class Casting..
@@ -813,7 +813,7 @@ primitive data type을 레퍼런싱 하려고 만든것
 	* 구현할때 클래스안에 들어가야할 attribute & method
 	* 매트릭스를 클래스에 넣는다 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDQxMzQwNywxNDk5OTg2OTMwLDExMz
+eyJoaXN0b3J5IjpbLTMwMDE0NjUzMywxNDk5OTg2OTMwLDExMz
 Q3NDYxNjEsLTQzMDAwMzU4NCw0NjMyMzI1MiwtMjEzMTY1MDI5
 OCwtMTgwNjE5NDAzMywtMTc4NjQ3NDQyLDUxMzg2NzAxMiw2Nj
 kxOTA4MjksLTU1NDQ4ODg0LC0xNTQzMTAxMjk2LDc4MTE3MTkw
