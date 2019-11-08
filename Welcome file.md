@@ -800,6 +800,8 @@ primitive data type을 레퍼런싱 하려고 만든것
 * ArrayList 
 	내부적으로는 배열들을 상황에 맞추어 배열을 다시 생성하는것 - 밖에서는 보이지 않음
 
+### ListInterface
+
 ## TO DO
 * Class Casting..
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기 -- done 
@@ -809,7 +811,7 @@ primitive data type을 레퍼런싱 하려고 만든것
 	* 구현할때 클래스안에 들어가야할 attribute & method
 	* 매트릭스를 클래스에 넣는다 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTI1NjU1MywxMTM0NzQ2MTYxLC00Mz
+eyJoaXN0b3J5IjpbLTY3NTcxODM2OSwxMTM0NzQ2MTYxLC00Mz
 AwMDM1ODQsNDYzMjMyNTIsLTIxMzE2NTAyOTgsLTE4MDYxOTQw
 MzMsLTE3ODY0NzQ0Miw1MTM4NjcwMTIsNjY5MTkwODI5LC01NT
 Q0ODg4NCwtMTU0MzEwMTI5Niw3ODExNzE5MCwxNjA2NzcyMjg2
