@@ -807,6 +807,13 @@ primitive data type을 레퍼런싱 하려고 만든것
 
 ### Traverse
 
+
+------------------------
+reference type은 for each 써도 된다
+```java
+
+```
+
 ## TO DO
 * Class Casting..
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기 -- done 
@@ -816,11 +823,11 @@ primitive data type을 레퍼런싱 하려고 만든것
 	* 구현할때 클래스안에 들어가야할 attribute & method
 	* 매트릭스를 클래스에 넣는다 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzA5NzU3MCwtMzAwMTQ2NTMzLDE0OT
-k5ODY5MzAsMTEzNDc0NjE2MSwtNDMwMDAzNTg0LDQ2MzIzMjUy
-LC0yMTMxNjUwMjk4LC0xODA2MTk0MDMzLC0xNzg2NDc0NDIsNT
-EzODY3MDEyLDY2OTE5MDgyOSwtNTU0NDg4ODQsLTE1NDMxMDEy
-OTYsNzgxMTcxOTAsMTYwNjc3MjI4Niw3MDczMTk3MTcsMTg5OT
-IwNTA4NywtMTkwMzU2NDY4NCwtOTQ1NjI0NzY0LDMzNDU4MzAw
-M119
+eyJoaXN0b3J5IjpbLTY4OTc1Nzk3NSwxNjg3MDk3NTcwLC0zMD
+AxNDY1MzMsMTQ5OTk4NjkzMCwxMTM0NzQ2MTYxLC00MzAwMDM1
+ODQsNDYzMjMyNTIsLTIxMzE2NTAyOTgsLTE4MDYxOTQwMzMsLT
+E3ODY0NzQ0Miw1MTM4NjcwMTIsNjY5MTkwODI5LC01NTQ0ODg4
+NCwtMTU0MzEwMTI5Niw3ODExNzE5MCwxNjA2NzcyMjg2LDcwNz
+MxOTcxNywxODk5MjA1MDg3LC0xOTAzNTY0Njg0LC05NDU2MjQ3
+NjRdfQ==
 -->
