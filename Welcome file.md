@@ -800,9 +800,9 @@ primitive data type을 레퍼런싱 하려고 만든것
 * ArrayList 
 	내부적으로는 배열들을 상황에 맞추어 배열을 다시 생성하는것 - 밖에서는 보이지 않음
 
-### ListInterface
-[ListInterface](https://movefast.tistory.com/76)
-
+### List Interface
+[List Interface](https://movefast.tistory.com/76)
+ArrayList가 implement 한다
 
 ## TO DO
 * Class Casting..
@@ -813,11 +813,11 @@ primitive data type을 레퍼런싱 하려고 만든것
 	* 구현할때 클래스안에 들어가야할 attribute & method
 	* 매트릭스를 클래스에 넣는다 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyNTkxMjEwLDExMzQ3NDYxNjEsLTQzMD
-AwMzU4NCw0NjMyMzI1MiwtMjEzMTY1MDI5OCwtMTgwNjE5NDAz
-MywtMTc4NjQ3NDQyLDUxMzg2NzAxMiw2NjkxOTA4MjksLTU1ND
-Q4ODg0LC0xNTQzMTAxMjk2LDc4MTE3MTkwLDE2MDY3NzIyODYs
-NzA3MzE5NzE3LDE4OTkyMDUwODcsLTE5MDM1NjQ2ODQsLTk0NT
-YyNDc2NCwzMzQ1ODMwMDMsMzAzMTczNzY2LDE5MzUwNTU1NjVd
-fQ==
+eyJoaXN0b3J5IjpbMTQ5OTk4NjkzMCwxMTM0NzQ2MTYxLC00Mz
+AwMDM1ODQsNDYzMjMyNTIsLTIxMzE2NTAyOTgsLTE4MDYxOTQw
+MzMsLTE3ODY0NzQ0Miw1MTM4NjcwMTIsNjY5MTkwODI5LC01NT
+Q0ODg4NCwtMTU0MzEwMTI5Niw3ODExNzE5MCwxNjA2NzcyMjg2
+LDcwNzMxOTcxNywxODk5MjA1MDg3LC0xOTAzNTY0Njg0LC05ND
+U2MjQ3NjQsMzM0NTgzMDAzLDMwMzE3Mzc2NiwxOTM1MDU1NTY1
+XX0=
 -->
