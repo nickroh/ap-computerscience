@@ -818,9 +818,15 @@ public class Decks{
 			allDecks[i] = new Deck();
 		}
 	}
-	public void shuff
+	public void shuffleAll(){
+		for(Deck d: allDecks){
+			d.shuffle();
+		}
+	}
 }
 ```
+
+
 
 ## TO DO
 * Class Casting..
@@ -831,7 +837,7 @@ public class Decks{
 	* 구현할때 클래스안에 들어가야할 attribute & method
 	* 매트릭스를 클래스에 넣는다 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODg0NTc3NCwxNjg3MDk3NTcwLC0zMD
+eyJoaXN0b3J5IjpbMTk2NjY0MzMxMiwxNjg3MDk3NTcwLC0zMD
 AxNDY1MzMsMTQ5OTk4NjkzMCwxMTM0NzQ2MTYxLC00MzAwMDM1
 ODQsNDYzMjMyNTIsLTIxMzE2NTAyOTgsLTE4MDYxOTQwMzMsLT
 E3ODY0NzQ0Miw1MTM4NjcwMTIsNjY5MTkwODI5LC01NTQ0ODg4
