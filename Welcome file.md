@@ -811,7 +811,15 @@ primitive data type을 레퍼런싱 하려고 만든것
 ------------------------
 reference type은 for each 써도 된다
 ```java
-
+public class Decks{
+	private Deck[] allDecks;
+	public ManyDecks(){
+		for(){
+			allDecks[i] = new Deck();
+		}
+	}
+	public void shuff
+}
 ```
 
 ## TO DO
@@ -823,7 +831,7 @@ reference type은 for each 써도 된다
 	* 구현할때 클래스안에 들어가야할 attribute & method
 	* 매트릭스를 클래스에 넣는다 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTc1Nzk3NSwxNjg3MDk3NTcwLC0zMD
+eyJoaXN0b3J5IjpbMTQ5ODg0NTc3NCwxNjg3MDk3NTcwLC0zMD
 AxNDY1MzMsMTQ5OTk4NjkzMCwxMTM0NzQ2MTYxLC00MzAwMDM1
 ODQsNDYzMjMyNTIsLTIxMzE2NTAyOTgsLTE4MDYxOTQwMzMsLT
 E3ODY0NzQ0Miw1MTM4NjcwMTIsNjY5MTkwODI5LC01NTQ0ODg4
