@@ -805,9 +805,6 @@ primitive data type을 레퍼런싱 하려고 만든것
 [list-interface](https://www.geeksforgeeks.org/list-interface-java-examples/)
 [java-collections-the-list-interface/](https://stackabuse.com/java-collections-the-list-interface/)
 
-### Traverse
-
-
 ------------------------
 reference type은 for each 써도 된다
 ```java
@@ -826,11 +823,14 @@ public class Decks{
 }
 ```
 
-### Collection API 
+#### Collection API 
 
 > Collection Framework Class들
 
-iterator -- inner class
+#### iterator -- inner class
+* remove
+* add 
+* etc
 
 ## TO DO
 * Class Casting..
@@ -841,11 +841,11 @@ iterator -- inner class
 	* 구현할때 클래스안에 들어가야할 attribute & method
 	* 매트릭스를 클래스에 넣는다 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTU1ODE3NTEsMTA4ODg2Mzg1OSwxMD
-kxMDk1MTE5LDE5NjY2NDMzMTIsMTY4NzA5NzU3MCwtMzAwMTQ2
-NTMzLDE0OTk5ODY5MzAsMTEzNDc0NjE2MSwtNDMwMDAzNTg0LD
-Q2MzIzMjUyLC0yMTMxNjUwMjk4LC0xODA2MTk0MDMzLC0xNzg2
-NDc0NDIsNTEzODY3MDEyLDY2OTE5MDgyOSwtNTU0NDg4ODQsLT
-E1NDMxMDEyOTYsNzgxMTcxOTAsMTYwNjc3MjI4Niw3MDczMTk3
-MTddfQ==
+eyJoaXN0b3J5IjpbNjg5NzE0OTIwLDEwODg4NjM4NTksMTA5MT
+A5NTExOSwxOTY2NjQzMzEyLDE2ODcwOTc1NzAsLTMwMDE0NjUz
+MywxNDk5OTg2OTMwLDExMzQ3NDYxNjEsLTQzMDAwMzU4NCw0Nj
+MyMzI1MiwtMjEzMTY1MDI5OCwtMTgwNjE5NDAzMywtMTc4NjQ3
+NDQyLDUxMzg2NzAxMiw2NjkxOTA4MjksLTU1NDQ4ODg0LC0xNT
+QzMTAxMjk2LDc4MTE3MTkwLDE2MDY3NzIyODYsNzA3MzE5NzE3
+XX0=
 -->
