@@ -805,6 +805,8 @@ primitive data type을 레퍼런싱 하려고 만든것
 [list-interface](https://www.geeksforgeeks.org/list-interface-java-examples/)
 [java-collections-the-list-interface/](https://stackabuse.com/java-collections-the-list-interface/)
 
+### Traverse
+
 ## TO DO
 * Class Casting..
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기 -- done 
@@ -814,11 +816,11 @@ primitive data type을 레퍼런싱 하려고 만든것
 	* 구현할때 클래스안에 들어가야할 attribute & method
 	* 매트릭스를 클래스에 넣는다 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzI5OTIxNDUsLTMwMDE0NjUzMywxND
-k5OTg2OTMwLDExMzQ3NDYxNjEsLTQzMDAwMzU4NCw0NjMyMzI1
-MiwtMjEzMTY1MDI5OCwtMTgwNjE5NDAzMywtMTc4NjQ3NDQyLD
-UxMzg2NzAxMiw2NjkxOTA4MjksLTU1NDQ4ODg0LC0xNTQzMTAx
-Mjk2LDc4MTE3MTkwLDE2MDY3NzIyODYsNzA3MzE5NzE3LDE4OT
-kyMDUwODcsLTE5MDM1NjQ2ODQsLTk0NTYyNDc2NCwzMzQ1ODMw
-MDNdfQ==
+eyJoaXN0b3J5IjpbMTY4NzA5NzU3MCwtMzAwMTQ2NTMzLDE0OT
+k5ODY5MzAsMTEzNDc0NjE2MSwtNDMwMDAzNTg0LDQ2MzIzMjUy
+LC0yMTMxNjUwMjk4LC0xODA2MTk0MDMzLC0xNzg2NDc0NDIsNT
+EzODY3MDEyLDY2OTE5MDgyOSwtNTU0NDg4ODQsLTE1NDMxMDEy
+OTYsNzgxMTcxOTAsMTYwNjc3MjI4Niw3MDczMTk3MTcsMTg5OT
+IwNTA4NywtMTkwMzU2NDY4NCwtOTQ1NjI0NzY0LDMzNDU4MzAw
+M119
 -->
