@@ -832,6 +832,10 @@ public class Decks{
 * add 
 * etc
 
+
+## 14th
+* iterate
+### 2D array
 ## TO DO
 * Class Casting..
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기 -- done 
@@ -841,11 +845,11 @@ public class Decks{
 	* 구현할때 클래스안에 들어가야할 attribute & method
 	* 매트릭스를 클래스에 넣는다 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5NzE0OTIwLDEwODg4NjM4NTksMTA5MT
-A5NTExOSwxOTY2NjQzMzEyLDE2ODcwOTc1NzAsLTMwMDE0NjUz
-MywxNDk5OTg2OTMwLDExMzQ3NDYxNjEsLTQzMDAwMzU4NCw0Nj
-MyMzI1MiwtMjEzMTY1MDI5OCwtMTgwNjE5NDAzMywtMTc4NjQ3
-NDQyLDUxMzg2NzAxMiw2NjkxOTA4MjksLTU1NDQ4ODg0LC0xNT
-QzMTAxMjk2LDc4MTE3MTkwLDE2MDY3NzIyODYsNzA3MzE5NzE3
-XX0=
+eyJoaXN0b3J5IjpbLTY0MjY1OTQyMyw2ODk3MTQ5MjAsMTA4OD
+g2Mzg1OSwxMDkxMDk1MTE5LDE5NjY2NDMzMTIsMTY4NzA5NzU3
+MCwtMzAwMTQ2NTMzLDE0OTk5ODY5MzAsMTEzNDc0NjE2MSwtND
+MwMDAzNTg0LDQ2MzIzMjUyLC0yMTMxNjUwMjk4LC0xODA2MTk0
+MDMzLC0xNzg2NDc0NDIsNTEzODY3MDEyLDY2OTE5MDgyOSwtNT
+U0NDg4ODQsLTE1NDMxMDEyOTYsNzgxMTcxOTAsMTYwNjc3MjI4
+Nl19
 -->
