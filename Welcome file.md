@@ -839,7 +839,7 @@ public class Decks{
 ### 2D array
 
 ### recursion
-[이런ㄱ](https://stackedit.io/app#providerId=githubWorkspace&owner=nickroh&repo=ap-computerscience&branch=master)
+[이런거](https://stackedit.io/app#providerId=githubWorkspace&owner=nickroh&repo=ap-computerscience&branch=master)
 ## TO DO
 * Class Casting..
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기 -- done 
@@ -849,11 +849,11 @@ public class Decks{
 	* 구현할때 클래스안에 들어가야할 attribute & method
 	* 매트릭스를 클래스에 넣는다 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3MzM4NDgwLC0xMTk2Mzk0NDcsNjg5Nz
-E0OTIwLDEwODg4NjM4NTksMTA5MTA5NTExOSwxOTY2NjQzMzEy
-LDE2ODcwOTc1NzAsLTMwMDE0NjUzMywxNDk5OTg2OTMwLDExMz
-Q3NDYxNjEsLTQzMDAwMzU4NCw0NjMyMzI1MiwtMjEzMTY1MDI5
-OCwtMTgwNjE5NDAzMywtMTc4NjQ3NDQyLDUxMzg2NzAxMiw2Nj
-kxOTA4MjksLTU1NDQ4ODg0LC0xNTQzMTAxMjk2LDc4MTE3MTkw
-XX0=
+eyJoaXN0b3J5IjpbLTE1NzkzNjMxNTMsLTExOTYzOTQ0Nyw2OD
+k3MTQ5MjAsMTA4ODg2Mzg1OSwxMDkxMDk1MTE5LDE5NjY2NDMz
+MTIsMTY4NzA5NzU3MCwtMzAwMTQ2NTMzLDE0OTk5ODY5MzAsMT
+EzNDc0NjE2MSwtNDMwMDAzNTg0LDQ2MzIzMjUyLC0yMTMxNjUw
+Mjk4LC0xODA2MTk0MDMzLC0xNzg2NDc0NDIsNTEzODY3MDEyLD
+Y2OTE5MDgyOSwtNTU0NDg4ODQsLTE1NDMxMDEyOTYsNzgxMTcx
+OTBdfQ==
 -->
