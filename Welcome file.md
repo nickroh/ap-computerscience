@@ -844,7 +844,7 @@ public class Decks{
 * termination condition
 
 * Stack - FILO (First In Last Out) 
-* Queue - FIFO (F)
+* Queue - FIFO (First In First Out)
 ## TO DO
 * Class Casting..
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기 -- done 
@@ -854,7 +854,7 @@ public class Decks{
 	* 구현할때 클래스안에 들어가야할 attribute & method
 	* 매트릭스를 클래스에 넣는다 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTg2Mjk3NCwtMTE5NjM5NDQ3LDY4OT
+eyJoaXN0b3J5IjpbMTAxMzEzNDk5NSwtMTE5NjM5NDQ3LDY4OT
 cxNDkyMCwxMDg4ODYzODU5LDEwOTEwOTUxMTksMTk2NjY0MzMx
 MiwxNjg3MDk3NTcwLC0zMDAxNDY1MzMsMTQ5OTk4NjkzMCwxMT
 M0NzQ2MTYxLC00MzAwMDM1ODQsNDYzMjMyNTIsLTIxMzE2NTAy
