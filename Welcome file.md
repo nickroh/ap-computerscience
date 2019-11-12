@@ -842,6 +842,9 @@ public class Decks{
 [이런거](https://stackedit.io/app#providerId=githubWorkspace&owner=nickroh&repo=ap-computerscience&branch=master)
 
 * termination condition
+
+* Stack
+* Queue
 ## TO DO
 * Class Casting..
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기 -- done 
@@ -851,11 +854,11 @@ public class Decks{
 	* 구현할때 클래스안에 들어가야할 attribute & method
 	* 매트릭스를 클래스에 넣는다 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzI2MzgyNiwtMTE5NjM5NDQ3LDY4OT
-cxNDkyMCwxMDg4ODYzODU5LDEwOTEwOTUxMTksMTk2NjY0MzMx
-MiwxNjg3MDk3NTcwLC0zMDAxNDY1MzMsMTQ5OTk4NjkzMCwxMT
-M0NzQ2MTYxLC00MzAwMDM1ODQsNDYzMjMyNTIsLTIxMzE2NTAy
-OTgsLTE4MDYxOTQwMzMsLTE3ODY0NzQ0Miw1MTM4NjcwMTIsNj
-Y5MTkwODI5LC01NTQ0ODg4NCwtMTU0MzEwMTI5Niw3ODExNzE5
-MF19
+eyJoaXN0b3J5IjpbLTgyOTMxODMxLC0xMTk2Mzk0NDcsNjg5Nz
+E0OTIwLDEwODg4NjM4NTksMTA5MTA5NTExOSwxOTY2NjQzMzEy
+LDE2ODcwOTc1NzAsLTMwMDE0NjUzMywxNDk5OTg2OTMwLDExMz
+Q3NDYxNjEsLTQzMDAwMzU4NCw0NjMyMzI1MiwtMjEzMTY1MDI5
+OCwtMTgwNjE5NDAzMywtMTc4NjQ3NDQyLDUxMzg2NzAxMiw2Nj
+kxOTA4MjksLTU1NDQ4ODg0LC0xNTQzMTAxMjk2LDc4MTE3MTkw
+XX0=
 -->
