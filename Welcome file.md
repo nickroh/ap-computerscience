@@ -835,6 +835,7 @@ public class Decks{
 
 ## 14th
 * iterate
+* 
 ### 2D array
 ## TO DO
 * Class Casting..
@@ -845,7 +846,7 @@ public class Decks{
 	* 구현할때 클래스안에 들어가야할 attribute & method
 	* 매트릭스를 클래스에 넣는다 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MjY1OTQyMyw2ODk3MTQ5MjAsMTA4OD
+eyJoaXN0b3J5IjpbLTExOTYzOTQ0Nyw2ODk3MTQ5MjAsMTA4OD
 g2Mzg1OSwxMDkxMDk1MTE5LDE5NjY2NDMzMTIsMTY4NzA5NzU3
 MCwtMzAwMTQ2NTMzLDE0OTk5ODY5MzAsMTEzNDc0NjE2MSwtND
 MwMDAzNTg0LDQ2MzIzMjUyLC0yMTMxNjUwMjk4LC0xODA2MTk0
