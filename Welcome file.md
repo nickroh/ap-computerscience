@@ -853,7 +853,12 @@ public class Decks{
 * Factorial
 ```java
 public class Factorial{
-	
+	public static void main(String args[]){
+		int sum=0;
+	}
+	static void facto(int a){
+		
+	}
 }
 ```
 
@@ -1079,7 +1084,7 @@ int main()
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDE4MTY1MSwtNDA3MjcxNDM1LC0xOD
+eyJoaXN0b3J5IjpbMTQ4NTQxNDY4MiwtNDA3MjcxNDM1LC0xOD
 YwMjk4OTcsMTAxMzEzNDk5NSwtMTE5NjM5NDQ3LDY4OTcxNDky
 MCwxMDg4ODYzODU5LDEwOTEwOTUxMTksMTk2NjY0MzMxMiwxNj
 g3MDk3NTcwLC0zMDAxNDY1MzMsMTQ5OTk4NjkzMCwxMTM0NzQ2
