@@ -855,12 +855,225 @@ public class Decks{
 	* 매트으리이익스으 계에에사아안기이이 
 	* 구현할때 클래스안에 들어가야할 attribute & method
 	* 매트릭스를 클래스에 넣는다 
+
+### Sorting
+``` C++
+#include <stdio.h>
+#include <algorithm>
+#include <string.h>
+#define swap(a,b) {int t=a; a=b; b=t;}
+
+int sorted[10000000]; // º¸Á¶ ¸®½ºÆ® ´ÜÁ¡!!!
+int n;
+int arr[10000000]; // ¿ø·¡ ¸®½ºÆ®
+
+int a;
+int i = 100000;
+
+int dfs_arr[1000000];
+
+void input_for_dfs()
+{
+	scanf("%d", &n);
+	for (int i = 0; i < n; i++)
+	{
+		
+	}
+}
+
+
+void input_for_sorting()
+{
+	scanf("%d", &n); // ¸î°³ÀÇ °ªÀÌ µé¾î°¡´ÂÁö ÀÔ·Â
+	for (int i = 0; i < n; i++)
+	{
+		scanf("%d", &arr[i]); // i ¹øÂ° °ªÀ» ÀÔ·Â
+	}
+}
+
+void merge(int *arr,int f, int mid, int l)
+{
+	int i, j, k;
+	i = f; // ¿ÞÂÊ 
+	k = f; // º¹»çÇÒ¶§ ¾µ°Å 
+	j = mid + 1; // Áß¾Ó°ª
+
+	while (i <= mid && j <= l)
+	{
+		if (arr[i] <= arr[j])
+		{
+			sorted[k++] = arr[i++]; 
+		}
+		if (arr[i] > arr[j])
+		{
+			sorted[k++] = arr[j++];
+		}
+	}
+	if (i <= mid)
+	{
+		for (int cnt = i; cnt <= mid; cnt++)
+		{
+			sorted[k++] = arr[cnt];
+		}
+	}
+	if (j <= l)
+	{
+		for (int cnt = j; cnt <= l; cnt++)
+		{
+			sorted[k++] = arr[cnt];
+		}
+	}
+	
+	for (int cnt2 = f; cnt2 <=l; cnt2++)
+	{
+		arr[cnt2] = sorted[cnt2]; //º¹»ç
+	}
+}
+void merge_sort(int *arr, int f, int l)
+{
+	int mid = (f + l) / 2; // Áß¾Ó°ª
+	if (f < l)
+	{
+		merge_sort(arr, f, mid); // ¿ÞÂÊ Àç±Í
+		merge(arr, f,mid,l); // ÇÕÄ¡±â
+		merge_sort(arr, mid + 1, l); // ¿À¸¥ÂÊ Àç±Í
+	}
+}
+void print()
+{
+	for (int i = 0; i < n; i++)
+	{
+		printf("%d\n", arr[i]); // Ãâ·Â
+		}
+}
+
+int cal(int a, int b)
+{
+	return a + b;
+}
+
+void quicksort(int *arr,int cnt)
+{
+	int left, right;
+	int point;
+	if (cnt <= 1)
+	{
+		return;
+	}
+	point = arr[cnt - 1];
+	for (left = 0, right = cnt - 2;; left++, right--)
+	{
+		while (arr[left] < point)
+		{
+			left++;
+		}
+		while (arr[right] > point)
+		{
+			right--;
+		}
+		if (left >= right)
+		{
+			break;
+		}
+		swap(arr[left], arr[right]);	
+	}
+	swap(arr[left], arr[cnt - 1]);
+
+	quicksort(arr, left);
+	quicksort(arr + left + 1, cnt - left - 1);
+}
+
+void heap_sort()
+{
+
+}
+
+void selection_sort(int *arr,int cnt)
+{
+	for (int i = 0; i < cnt; i++)
+	{
+		int min = arr[i];
+		for (int j = i; j < cnt; j++)
+		{
+			if (min > arr[j])
+			{
+				int temp = arr[i];
+				arr[i] = arr[j];
+				arr[j] = temp;
+				min = arr[i];
+			}
+		}
+	}
+}
+
+void bubble_sort(int *arr,int cnt)
+{
+	for (int i = 0; i < cnt; i++)
+	{
+		for (int j = 0; j < cnt - i-1; j++)
+		{
+			if (arr[j] > arr[j+1])
+			{
+				swap(arr[j], arr[j + 1]);
+			}
+		}
+	}
+}
+
+void insertion_sort(int *arr,int cnt)
+{
+	for (int i = 1; i < cnt; i++)
+	{
+		int key = arr[i];
+		for (int j = 1; j <= i; j++)
+		{
+			if (arr[i - j] > key)
+			{
+				arr[i - j + 1] = arr[i - j];
+				arr[i - j] = key;
+			}
+			else
+			{
+				break;
+			}
+		}
+	}
+}
+
+void dfs()
+{
+
+}
+
+int main()
+{
+	input_for_sorting(); // °ª ÀÔ·Â
+
+	//selection_sort(arr,n);
+	//bubble_sort(arr,n);
+	//insertion_sort(arr, n);
+
+	//merge_sort(arr,0,n-1); // ÇÕº´Á¤·Ä
+	//quicksort(arr, n); // Äü Á¤·Ä
+	//heap_sort();
+
+	/*int a = -5;
+	int b = a >> 1;
+
+	printf("%d", b);*/
+
+	print(); // Ãâ·Â
+
+
+}
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjAyOTg5NywxMDEzMTM0OTk1LC0xMT
-k2Mzk0NDcsNjg5NzE0OTIwLDEwODg4NjM4NTksMTA5MTA5NTEx
-OSwxOTY2NjQzMzEyLDE2ODcwOTc1NzAsLTMwMDE0NjUzMywxND
-k5OTg2OTMwLDExMzQ3NDYxNjEsLTQzMDAwMzU4NCw0NjMyMzI1
-MiwtMjEzMTY1MDI5OCwtMTgwNjE5NDAzMywtMTc4NjQ3NDQyLD
-UxMzg2NzAxMiw2NjkxOTA4MjksLTU1NDQ4ODg0LC0xNTQzMTAx
-Mjk2XX0=
+eyJoaXN0b3J5IjpbLTQwNzI3MTQzNSwtMTg2MDI5ODk3LDEwMT
+MxMzQ5OTUsLTExOTYzOTQ0Nyw2ODk3MTQ5MjAsMTA4ODg2Mzg1
+OSwxMDkxMDk1MTE5LDE5NjY2NDMzMTIsMTY4NzA5NzU3MCwtMz
+AwMTQ2NTMzLDE0OTk5ODY5MzAsMTEzNDc0NjE2MSwtNDMwMDAz
+NTg0LDQ2MzIzMjUyLC0yMTMxNjUwMjk4LC0xODA2MTk0MDMzLC
+0xNzg2NDc0NDIsNTEzODY3MDEyLDY2OTE5MDgyOSwtNTU0NDg4
+ODRdfQ==
 -->
