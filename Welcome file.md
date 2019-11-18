@@ -845,6 +845,8 @@ public class Decks{
 
 * Stack - FILO (First In Last Out) 
 * Queue - FIFO (First In First Out)
+
+
 ## TO DO
 * Class Casting..
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기 -- done 
@@ -854,11 +856,11 @@ public class Decks{
 	* 구현할때 클래스안에 들어가야할 attribute & method
 	* 매트릭스를 클래스에 넣는다 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMzEzNDk5NSwtMTE5NjM5NDQ3LDY4OT
-cxNDkyMCwxMDg4ODYzODU5LDEwOTEwOTUxMTksMTk2NjY0MzMx
-MiwxNjg3MDk3NTcwLC0zMDAxNDY1MzMsMTQ5OTk4NjkzMCwxMT
-M0NzQ2MTYxLC00MzAwMDM1ODQsNDYzMjMyNTIsLTIxMzE2NTAy
-OTgsLTE4MDYxOTQwMzMsLTE3ODY0NzQ0Miw1MTM4NjcwMTIsNj
-Y5MTkwODI5LC01NTQ0ODg4NCwtMTU0MzEwMTI5Niw3ODExNzE5
-MF19
+eyJoaXN0b3J5IjpbLTE4NjAyOTg5NywxMDEzMTM0OTk1LC0xMT
+k2Mzk0NDcsNjg5NzE0OTIwLDEwODg4NjM4NTksMTA5MTA5NTEx
+OSwxOTY2NjQzMzEyLDE2ODcwOTc1NzAsLTMwMDE0NjUzMywxND
+k5OTg2OTMwLDExMzQ3NDYxNjEsLTQzMDAwMzU4NCw0NjMyMzI1
+MiwtMjEzMTY1MDI5OCwtMTgwNjE5NDAzMywtMTc4NjQ3NDQyLD
+UxMzg2NzAxMiw2NjkxOTA4MjksLTU1NDQ4ODg0LC0xNTQzMTAx
+Mjk2XX0=
 -->
