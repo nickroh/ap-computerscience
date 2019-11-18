@@ -856,8 +856,12 @@ public class Factorial{
 	public static void main(String args[]){
 		int sum=0;
 	}
-	static void facto(int a){
-		
+	static int facto(int a){
+		if(a == 1){
+			return 1;
+		}else{
+			return a*facto(a-1);
+		}
 	}
 }
 ```
@@ -1084,7 +1088,7 @@ int main()
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTQxNDY4MiwtNDA3MjcxNDM1LC0xOD
+eyJoaXN0b3J5IjpbMTM0Mzc2Mzg0NywtNDA3MjcxNDM1LC0xOD
 YwMjk4OTcsMTAxMzEzNDk5NSwtMTE5NjM5NDQ3LDY4OTcxNDky
 MCwxMDg4ODYzODU5LDEwOTEwOTUxMTksMTk2NjY0MzMxMiwxNj
 g3MDk3NTcwLC0zMDAxNDY1MzMsMTQ5OTk4NjkzMCwxMTM0NzQ2
