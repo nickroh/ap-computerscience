@@ -869,7 +869,9 @@ public class Factorial{
 ```
 * Fibonacci
 피보나치는 iteration을 쓰는거가 좋다 recursion은 비효율 적이다
-memoi
+memoization이 있긴하지만 iteration이 더 좋다
+**중복연산이 너무 많아서** recursion 안에서 사용하는 **Local Array**
+시간이랑 메모리 
 
 ## TO DO
 * Class Casting..
@@ -1093,11 +1095,11 @@ int main()
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTM3MDkxLDUzMDE4NzE1NywtNDA3Mj
-cxNDM1LC0xODYwMjk4OTcsMTAxMzEzNDk5NSwtMTE5NjM5NDQ3
-LDY4OTcxNDkyMCwxMDg4ODYzODU5LDEwOTEwOTUxMTksMTk2Nj
-Y0MzMxMiwxNjg3MDk3NTcwLC0zMDAxNDY1MzMsMTQ5OTk4Njkz
-MCwxMTM0NzQ2MTYxLC00MzAwMDM1ODQsNDYzMjMyNTIsLTIxMz
-E2NTAyOTgsLTE4MDYxOTQwMzMsLTE3ODY0NzQ0Miw1MTM4Njcw
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTE3ODc0MzM3NTgsNTMwMTg3MTU3LC00MD
+cyNzE0MzUsLTE4NjAyOTg5NywxMDEzMTM0OTk1LC0xMTk2Mzk0
+NDcsNjg5NzE0OTIwLDEwODg4NjM4NTksMTA5MTA5NTExOSwxOT
+Y2NjQzMzEyLDE2ODcwOTc1NzAsLTMwMDE0NjUzMywxNDk5OTg2
+OTMwLDExMzQ3NDYxNjEsLTQzMDAwMzU4NCw0NjMyMzI1MiwtMj
+EzMTY1MDI5OCwtMTgwNjE5NDAzMywtMTc4NjQ3NDQyLDUxMzg2
+NzAxMl19
 -->
