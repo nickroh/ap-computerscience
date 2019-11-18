@@ -855,6 +855,8 @@ public class Decks{
 public class Factorial{
 	public static void main(String args[]){
 		int sum=0;
+		int n=10;
+		System.out.println(facto(n));
 	}
 	static int facto(int a){
 		if(a == 1){
@@ -1088,11 +1090,11 @@ int main()
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Mzc2Mzg0NywtNDA3MjcxNDM1LC0xOD
-YwMjk4OTcsMTAxMzEzNDk5NSwtMTE5NjM5NDQ3LDY4OTcxNDky
-MCwxMDg4ODYzODU5LDEwOTEwOTUxMTksMTk2NjY0MzMxMiwxNj
-g3MDk3NTcwLC0zMDAxNDY1MzMsMTQ5OTk4NjkzMCwxMTM0NzQ2
-MTYxLC00MzAwMDM1ODQsNDYzMjMyNTIsLTIxMzE2NTAyOTgsLT
-E4MDYxOTQwMzMsLTE3ODY0NzQ0Miw1MTM4NjcwMTIsNjY5MTkw
-ODI5XX0=
+eyJoaXN0b3J5IjpbNTMwMTg3MTU3LC00MDcyNzE0MzUsLTE4Nj
+AyOTg5NywxMDEzMTM0OTk1LC0xMTk2Mzk0NDcsNjg5NzE0OTIw
+LDEwODg4NjM4NTksMTA5MTA5NTExOSwxOTY2NjQzMzEyLDE2OD
+cwOTc1NzAsLTMwMDE0NjUzMywxNDk5OTg2OTMwLDExMzQ3NDYx
+NjEsLTQzMDAwMzU4NCw0NjMyMzI1MiwtMjEzMTY1MDI5OCwtMT
+gwNjE5NDAzMywtMTc4NjQ3NDQyLDUxMzg2NzAxMiw2NjkxOTA4
+MjldfQ==
 -->
