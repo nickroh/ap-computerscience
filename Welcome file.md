@@ -876,7 +876,8 @@ memoization이 있긴하지만 iteration이 더 좋다
 * 왜 사용하는가
 코드를 심플하게 만들려고?
 
-
+recursion을 시작할때 몇번을 반복해야 할지 모를때 사용한다
+for 문과 while의 관계와 비슷
 
 ## TO DO
 * Class Casting..
@@ -1100,7 +1101,7 @@ int main()
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzM5MjYwNiwtMTc4NzQzMzc1OCw1Mz
+eyJoaXN0b3J5IjpbMTM5MzgwMjgwMSwtMTc4NzQzMzc1OCw1Mz
 AxODcxNTcsLTQwNzI3MTQzNSwtMTg2MDI5ODk3LDEwMTMxMzQ5
 OTUsLTExOTYzOTQ0Nyw2ODk3MTQ5MjAsMTA4ODg2Mzg1OSwxMD
 kxMDk1MTE5LDE5NjY2NDMzMTIsMTY4NzA5NzU3MCwtMzAwMTQ2
