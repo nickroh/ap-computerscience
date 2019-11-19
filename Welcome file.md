@@ -871,7 +871,10 @@ public class Factorial{
 피보나치는 iteration을 쓰는거가 좋다 recursion은 비효율 적이다
 memoization이 있긴하지만 iteration이 더 좋다
 **중복연산이 너무 많아서** recursion 안에서 사용하는 **Local Array**
-시간이랑 메모리 
+중복되는 시간이랑 메모리 
+
+* 왜 사용하는가
+
 
 ## TO DO
 * Class Casting..
@@ -1095,11 +1098,11 @@ int main()
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODc0MzM3NTgsNTMwMTg3MTU3LC00MD
-cyNzE0MzUsLTE4NjAyOTg5NywxMDEzMTM0OTk1LC0xMTk2Mzk0
-NDcsNjg5NzE0OTIwLDEwODg4NjM4NTksMTA5MTA5NTExOSwxOT
-Y2NjQzMzEyLDE2ODcwOTc1NzAsLTMwMDE0NjUzMywxNDk5OTg2
-OTMwLDExMzQ3NDYxNjEsLTQzMDAwMzU4NCw0NjMyMzI1MiwtMj
-EzMTY1MDI5OCwtMTgwNjE5NDAzMywtMTc4NjQ3NDQyLDUxMzg2
-NzAxMl19
+eyJoaXN0b3J5IjpbNTgyNzU0NDc3LC0xNzg3NDMzNzU4LDUzMD
+E4NzE1NywtNDA3MjcxNDM1LC0xODYwMjk4OTcsMTAxMzEzNDk5
+NSwtMTE5NjM5NDQ3LDY4OTcxNDkyMCwxMDg4ODYzODU5LDEwOT
+EwOTUxMTksMTk2NjY0MzMxMiwxNjg3MDk3NTcwLC0zMDAxNDY1
+MzMsMTQ5OTk4NjkzMCwxMTM0NzQ2MTYxLC00MzAwMDM1ODQsND
+YzMjMyNTIsLTIxMzE2NTAyOTgsLTE4MDYxOTQwMzMsLTE3ODY0
+NzQ0Ml19
 -->
