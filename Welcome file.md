@@ -881,6 +881,11 @@ memoization이 있긴하지만 iteration이 더 좋다
 recursion을 시작할때 몇번을 반복해야 할지 모를때 사용한다 -- 갈수 있을때까지 가보는거니까
 for 문과 while의 관계와 비슷
 
+branch 가 있는 문제
+divide & conquer 
+binary search
+mergesort
+
 ## TO DO
 * Class Casting..
 * H/W 2D circle & square --> sphere & cube 손으로 그려오기 -- done 
@@ -1103,11 +1108,11 @@ int main()
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTgxNzY0OSwtMTc4NzQzMzc1OCw1Mz
-AxODcxNTcsLTQwNzI3MTQzNSwtMTg2MDI5ODk3LDEwMTMxMzQ5
-OTUsLTExOTYzOTQ0Nyw2ODk3MTQ5MjAsMTA4ODg2Mzg1OSwxMD
-kxMDk1MTE5LDE5NjY2NDMzMTIsMTY4NzA5NzU3MCwtMzAwMTQ2
-NTMzLDE0OTk5ODY5MzAsMTEzNDc0NjE2MSwtNDMwMDAzNTg0LD
-Q2MzIzMjUyLC0yMTMxNjUwMjk4LC0xODA2MTk0MDMzLC0xNzg2
-NDc0NDJdfQ==
+eyJoaXN0b3J5IjpbLTExNzgxMDEzNzgsMTQwMTgxNzY0OSwtMT
+c4NzQzMzc1OCw1MzAxODcxNTcsLTQwNzI3MTQzNSwtMTg2MDI5
+ODk3LDEwMTMxMzQ5OTUsLTExOTYzOTQ0Nyw2ODk3MTQ5MjAsMT
+A4ODg2Mzg1OSwxMDkxMDk1MTE5LDE5NjY2NDMzMTIsMTY4NzA5
+NzU3MCwtMzAwMTQ2NTMzLDE0OTk5ODY5MzAsMTEzNDc0NjE2MS
+wtNDMwMDAzNTg0LDQ2MzIzMjUyLC0yMTMxNjUwMjk4LC0xODA2
+MTk0MDMzXX0=
 -->
