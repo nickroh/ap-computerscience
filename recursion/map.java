@@ -1,4 +1,9 @@
-public class map{
+import java.util.ArrayList;
+
+public class map {
+
+    ArrayList<coord> CoordList = new ArrayList<coord>();
+
     char map[][]= new char[10][10];
     int n;
     char black='▣';
@@ -16,6 +21,7 @@ public class map{
         for(int i=2;i<8;i++){
             map[7][i]=black;
         }
+        map[8][3]=black;
         map[3][1]=black;
         map[4][4]=black;
         map[7][7]=black;
@@ -35,10 +41,48 @@ public class map{
     public void printmap(){
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
-                System.out.print(map[i][j]);
+                System.out.print(map[j][i]);
                 System.out.print(" ");
             }
             System.out.println();
+        }
+        enter();
+        divide();
+        enter();
+    }
+
+    public void traverse(int x, int y){
+        if(map[x][y]==black){
+            map[x][y]=white;
+            CoordList.add(new coord(x,y));
+        }
+        printmap();
+        if(map[x-1][y]==black){
+            traverse(x-1, y);
+        }
+        if(map[x][y+1]==black){
+            traverse(x, y+1);
+        }
+        if(map[x+1][y]==black){
+            traverse(x+1, y);
+        }
+        if(map[x][y-1]==black){
+            traverse(x,y-1);
+        }
+    }
+
+    private void enter(){
+        System.out.println();
+    }
+    private void divide(){
+        System.out.println("-------------");
+    }
+
+    public void order(){
+        int cnt = CoordList.size();
+        System.out.println("Total: "+cnt);
+        for(coord a : CoordList){
+            System.out.println("x:"+a.x + " y:"+a.y );
         }
     }
 }
