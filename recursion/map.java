@@ -5,6 +5,7 @@ public class map {
     ArrayList<coord> CoordList = new ArrayList<coord>();
 
     char map[][]= new char[10][10];
+    int result[][] = new int[10][10];
     int n;
     char black='▣';
     char white='▥';
@@ -36,6 +37,20 @@ public class map {
         for(int i=1;i<5;i++){
             map[i][7]=black;
         }
+        init_result();
+    }
+
+    public void init_result(){
+        int n=10;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                result[i][j]=0;
+            }
+        }
+    }
+
+    private void set_result(int x, int y,int value){
+        result[x][y]=value;
     }
 
     public void printmap(){
@@ -78,11 +93,23 @@ public class map {
         System.out.println("-------------");
     }
 
+    public void print_result(){
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                System.out.print(result[j][i]);
+                System.out.print(" ");
+            }
+            System.out.println();
+        }
+    }
+
     public void order(){
         int cnt = CoordList.size();
+        int count=1;
         System.out.println("Total: "+cnt);
         for(coord a : CoordList){
             System.out.println("x:"+a.x + " y:"+a.y );
+            set_result(a.x,a.y,count++);
         }
     }
 }
