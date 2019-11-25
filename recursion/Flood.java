@@ -22,8 +22,10 @@ public class Flood{
         }
         else if(input_1 == 'n' || input_1 == 'N'){
             a.printmap();
+            
             a.traverse(2,1);
             a.order();
+            a.print_result();
         }
         else{
             System.out.println("Invalid Input");
