@@ -976,8 +976,8 @@ void merge_sort(int *arr, int f, int l)
 	if (f < l)
 	{
 		merge_sort(arr, f, mid); // ¿ÞÂÊ Àç±Í
-		merge(arr, f,mid,l); // ÇÕÄ¡±â
 		merge_sort(arr, mid + 1, l); // ¿À¸¥ÂÊ Àç±Í
+		merge(arr, f,mid,l); // ÇÕÄ¡±
 	}
 }
 void print()
@@ -1111,11 +1111,11 @@ int main()
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDc2Mjk5MiwtMTgyNjE4NjI3MCwtMT
-E3ODEwMTM3OCwxNDAxODE3NjQ5LC0xNzg3NDMzNzU4LDUzMDE4
-NzE1NywtNDA3MjcxNDM1LC0xODYwMjk4OTcsMTAxMzEzNDk5NS
-wtMTE5NjM5NDQ3LDY4OTcxNDkyMCwxMDg4ODYzODU5LDEwOTEw
-OTUxMTksMTk2NjY0MzMxMiwxNjg3MDk3NTcwLC0zMDAxNDY1Mz
-MsMTQ5OTk4NjkzMCwxMTM0NzQ2MTYxLC00MzAwMDM1ODQsNDYz
-MjMyNTJdfQ==
+eyJoaXN0b3J5IjpbMTY1NzUxMTU5NCwtNTg0NzYyOTkyLC0xOD
+I2MTg2MjcwLC0xMTc4MTAxMzc4LDE0MDE4MTc2NDksLTE3ODc0
+MzM3NTgsNTMwMTg3MTU3LC00MDcyNzE0MzUsLTE4NjAyOTg5Ny
+wxMDEzMTM0OTk1LC0xMTk2Mzk0NDcsNjg5NzE0OTIwLDEwODg4
+NjM4NTksMTA5MTA5NTExOSwxOTY2NjQzMzEyLDE2ODcwOTc1Nz
+AsLTMwMDE0NjUzMywxNDk5OTg2OTMwLDExMzQ3NDYxNjEsLTQz
+MDAwMzU4NF19
 -->
