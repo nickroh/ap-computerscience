@@ -48,16 +48,7 @@ public class QuickSort{
             swap(arr, left, right);
         }
         swap(arr, left, l);
-        // for(int i=0;i<arr.length;i++){
-        //     System.out.printf("%d ",arr[i]);
-        // }
-        // System.out.println();
-        // System.out.println();
-
-        // System.out.println("l="+l);
-        // System.out.println("f="+f);
-        // System.out.println("left="+left);
-        // System.out.println("point="+point);
+   
         quick_sort(arr, f, left -1);       
         quick_sort(arr ,left + 1, l );
     }
